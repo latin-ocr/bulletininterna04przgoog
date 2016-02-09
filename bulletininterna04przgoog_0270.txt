@@ -1,0 +1,45 @@
+293
+
+immediate de l’omission, dans les equations rigoureuses, des termes
+(1) du ξ 3. Cela suffit pour eonelure que les equations (2), (3), (4)
+du ἓ 3. ne penvent &tre que des equations approchees‚ supposant
+un systeme de eoordonnees eonvenable‚ o'est-aedjre ehoisi dans un
+groupe de systemes qui, par leur mouvement de translation, diffe-
+rent peu l'un de l'autre.
+
+ξ 6. Reprenons les equations (3) ou (4) du ξ 3.; pour les eerire,
+nous adoptons le systeme de eoordonnees Oxyz. Cela. revient a dire
+que les composantes α’, v', w' de la vitesse du fluide par rapport
+a 0¹ ,τ’ y‘ ε’ ainsi que 188 eomposantes λ, μ, ν de la vitesse de l'ori-
+gine θ’ par rapport a Oxy z ont des valeurs suffisamment petites.
+soit Φ la valeur d'une des composantes des pressions qui se oal-
+8818 au moyen d’une des equations (3) ou (4) du ξ 3. Nous aurons
+
+Φ--Φ(ω,9,τ,ῠ,λ,μ,ν), (1)
+οὺ Φ ( ) designo une fonction ne verifiant pas les equations
+ἰΞ-(ἕ -Ι-ξλέεῡ etc. (2)
+
+Dans l'expression (1) de Φ, posons
+
+πεί-Ἠλῖ ; y=3st÷ut ς 2=z‘-l-vt ς (3)
+8118 deviendra
+
+ψ = Ἐφ’, μ’, 2², t, λ, μ, v). (4)
+
+Comme au paragrapho precedent, considerons un troisieme sys-
+teme de ooordonnees Ο1 εει·1 yl z, dont le mouvement de translation
+par rapport a O'x‘y‘z‘ differe legerement de oelui dont est anime
+le systeme Ox y z. Supposons done assez petites les composa-ntes
+2„ pt„ vl de la vitesse de l'origine 0¹ par rapport a 01 ευ, 9, 21 en
+sorte *que l'on soit autorise a eorire les equations (3) ou (4) du ἓ 3.
+en les rapportant au systeme de ‘eoordonnees O¹ xl y1 21. Soit (Ι)1
+la valeur que donne‚ dans ees conditions, 88118 (188 equations (3)
+ou (4) du ξ 3. a laquelle on s’est adresse. Nous aurons
+
+ψ( “-“-“ sp(x1,y¹,z1‚ ²221» μιν νι), (5)
+
+οὺ Φ () represents la fonction designee par la meme lettre plus
+haut3 elle ne verifie pas les equations (2) de oe paragraphe. La va-
+leur (ὃ) sera, en general, differente de 88118 que donne l’egalite (1)
+oi-dessus. Si, dans l'expression (5), nous posons
+

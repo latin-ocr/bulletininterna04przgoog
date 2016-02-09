@@ -1,0 +1,45 @@
+663
+
+Diese m Systeme (i = 1, 2 . . . m) der gewi3hnlichen Differential-
+gleiehungen ki'mnen durch 616 61661866 System (16186616111 werden,
+indem wir alle Gleiehungen durch dy¹1 (i = 1. 2...ηι) multiplieie-
+
+ren und addieren.
+So bekommen wir das System der gewohnliehen Differential-
+
+gleichungen
+
+dz = Σμ (Θ. -211ρψ §pez-Z) (1253
+dx = — 3'5 93⁶1oe
+÷ Ἰ ἓΡυ-Ή· β
+.- ¹ J--1‚2..n-—m‚ (A)
+dp ψ ²³ Ess(ezgij†p ÷ {wll-²}
+d19u== Σβὲἓῗβ αχρι)
+
+denen die Formel der 8666611166 Transformation 1161 den konstan-
+ten y„41‚.. ‚yfflqq 86611866 661166, oder besser: denen die Relatio-
+nen zwisehen xi, z. p„÷,-, welche 11166 66611 Ε116116611611 (161 y,..y,„
+6111611, 8611118611 661166. Die Anzahl dieser Relationen 161 2η-Ι-2 - 27η
+und ist derjenigen der Gleiehungen (A) 8161611. Α166 mus das Sy-
+stem (A) der gewbhnliehen Differentialgleiehungen ein unbesehrankt
+1111681611166 sein. Wenn wir das beweisen7 so wird damit bewiesen,
+dass die Formel der Transformation, die den Gleiehnngen des Sy-
+stems (A) 86611866, (1163661866 (161 8666611166 Transformation sind.
+Wenn in der Τ61 (166 System (A) ein unbesohrankt integrables ist,
+
+so bestimmt 66 (116 Veranderliehen z, ²5³4» pff„ μ, 616 Funktionen
+der 6,.. .x„,. Wenn wir jetzt (11666 1616166 616 (116 116116111866 Fun-
+
+ktionen der y ..... y,„4,1„,„‚ die in Bezug auf y ..... y„ unabhzingig
+sind, betraehten‚ 6ο 66116111 das System (A) infolge der Willkur-
+liehkeit der dy ..... dy„ in m Systeme (A‘)‚ woraus folgt‚ dass die
+
+Formel der Transformati0n‚ die den Gleiehungen (A) geuugen, die-
+jenigen der gesuehten Transformation sind.
+
+· XVir 661166 6160 beweisen, dass (166 System (A) ein unbesehrnnkt
+integrables ist. Wir geben zu diesem Zweeke 616186 Hilfsformeln.
+
+¹) G. Morem (1. 6.) 1161 (116666 system, (116 61616 und 161616 Gleiehnngon 6116-
+86606111166, 616 das 61616 Pfaffsehe des Ausdruckes Q' gesunden.
+

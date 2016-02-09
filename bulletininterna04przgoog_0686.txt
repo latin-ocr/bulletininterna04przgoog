@@ -1,0 +1,46 @@
+693
+
+602(oe1⁰·-·22.⁰)=0 E(x1⁰·--10.⁰)=0 (f)
+(a=1,2...n-}-1—m‚ i=1‚2...m)
+
+mit Hilfe der in letzten
+wa(x1⁰---x.⁰zo)=0 (i=1‚2...m)
+
+8ο umformen‚ dass sie die η-Ι-1 Integrale der Differentialgleiehungen
+der Matrix (131) sein werden. Wir wissen in der Tat, dass die
+Grbssen (εξ) 20 μ’) 111 (116 2η -4- 1 — m Integrale dieser Gleiehungen
+nur mit Hilfe der 2n-}-1 — m unabhangigen Funktionen 04(x,⁰. . .p‚,⁰)
+eintreten. Wir kennen also 2714— 1 —m dieser Grbssen z. B.
+⁵⁶⁰m÷1> zo, p? durch C,...C„„÷1„m und durch die m ubrigen dieser
+Grfissen 161⁰...x0m bestimmen. Wenn man (11686 Werte ins System
+(f) der Integrale einsetzt‚ 8ο ergibt 81611, (1688 (116 m letzten (1161-
+ehungen (μεθ (i=1‚2..‚m) die Grbssen 2:1⁰...oe1„ euthalten und
+in Bezug auf dieselben unabhangig sind, da diese Gleiehungen
+keine Integrale der Differentialgleiehungen der Matrix (131) sind.
+Wenn die fibrigen n—†—1 Gleiehungen des Syscems (f) ω,”....τ”,,,
+enthalten werden, 8ο konnen wir dieselben mit Hilfe der m letzten
+Gleiehungen eliminieren‚ und werden (11686 n—†-1 Gleiehungen nur
+G„ 0„-,..„, euthalten‚ d. h. sie werden zu Integralen der Differen-
+tialgleiehungen der Matrix (131). Es sei das System (f) in dieser
+neuen Form
+
+3a(x,⁰...p„⁰)=0‚ R(x,⁰...p„⁰>=0‚ m‘(oe,⁰...oe„⁰zo)=0 (f‘)
+(a=1‚2...n-}—1-—m‚i=1‚2...m)
+
+dargestellt. W'enn wir jetzt- die Gri’issen ,τέ’ zo p? aus den Gleiehun-
+gen (f‘) und den Gleiehungen
+
+xm44=xm†j(ae,...xmoe,⁰...p„⁰) j=1,2...7c—-m
+p4=p¹(oe,...xmx,⁰...p„⁰) 12:1,2mn (6)
+
+Ζεε(ω,...ωωω,”...ρη”)
+ehminieren, 8ο bekommen wir offenbar die Gleiehungen
+θα (ωι...ρ,,)--Ο, Ε(ω,...ρ,,);0 (az 1‚2.. n—f— 1- m, i=1, 2..m.)
+
+die (168 gemeinsame Integral im gewohnliehen Sinne der partiellen
+Differentialgleiehungen (I) darstellen, da die Gleiehungen (f‘) nur
+m-†-1 Relationen zwisehen :155⁰ 20 enthalten. wir kennen das System
+
+(f‘) noch in der Form
+4*
+

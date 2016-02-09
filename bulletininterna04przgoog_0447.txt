@@ -1,0 +1,60 @@
+462
+
+110011 n — 1 Relationen zwisc-hen z, cc„ p¹ geben, (16 wir die (11161-
+01111118 Ω’ =0 nur mit Hilfe von mindestens η Gleiehungen zum
+Versehwinden bringen 1113011611.
+
+Diese n Gleiehungen zwisohen xl . . . ,πβρι . ‚2 . p„ mussen 6116
+den Formeln der Transformation (a) und der Gleiehung (β) 1161
+(161 willkflrliehen Wahl der Funktion φ (³³1⁰ . . .p‚‚⁰) = Ο, (110 nur
+kein Integral des Systems (131) sein 6011, 1018611, da die Niehtsin-
+8111611161, 1111(1 folglich die Singularitat des 1111681616 61116 invariante
+Eigensehaft gegen 6116 Pfaffsche Transformationen ist.
+
+Wenn wir zu diesen n Gleiehungen
+
+3,(oe1...oe„zp1...p„)=0 (z‘=1, 2...n),
+
+noch die Gleichung F (231 . . . . x„zp1 . . . . μ.) ;- Ο hinzufflgen, 60 be·
+kommen wir das ganze System (y) der n —f— 1 111168161816101111118611
+(161· Differentialgleiehung
+
+Q=dz—-p1dae1...—-—p„doe„=0,
+
+das 11116 (166 singulare Integral der Differentialgleiohung (1) gibt,
+insofern dieses System (1111611 (116 Ι111681611011 (161· Differentialglei·
+chun
+
+g dZO —Plodoe1⁰... —P„⁰doe„⁰=07
+
+wo F (221⁰ . . . μθ) = Ο , φ (221⁰ . . . μθ) = Ο ist, 1110111 6111611611 wer-
+den kann.
+
+Wenn das System (γ) 111 Bezng 6111111ί 611Ηὸ611111· 161, 60 bekommt
+man (166 singulare 1111681111 z =f(:1:1 . . . πη) 1111 86πό111111011611 8111116.
+
+Wir werden zeigen, wie das singulare Integral‚ wenn es exi-
+611611, 6116 (16111 νο1161ἑ1111118611 1111681111 6111611611 werden kann.
+
+Es sei 11116616 Gleichung (l) von der Form
+
+h'(oe1...oe„zp1...p„)=0
+und 66 661 ihr vollstandiges Integral von der F orm
+
+(ὁ) F=0‚ ινιτ-01, 122=0„.
+
+Wenn wir n von den Veranderliehen ω. z Px anf die neuen
+01 = F1⁷ . .. C„ = F„ transformieren‚ 60 bekommen wir
+
+52¹=dz—p1doe,...-p„dae„=A1a01-{-A2a02÷...÷A,dc.
+
+oder
+
+9¹:14, ((1014- {³ <102 -f- . . .-}- ἐπα).
+
+ 
+
+ 
+
+ 
+

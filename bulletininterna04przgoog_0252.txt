@@ -1,0 +1,49 @@
+275
+
+(1888 18 premiere partie de 06 Travail. Le probleme auquel nous·
+1168088 (16 faire allusion 8088 8 00081168 (1888 80116 Μ6180116 Su r
+la propagation d'un petit mouvement dans un fluide
+visqueux‚ presente 8 1Ἀο8(161816 (1888 18 868806 (18 7. Janvier
+1902 ¹). Ainsi que dans 06 Μ6180116, 8088 8811110861088 881168 168 for-
+ces exterieures auxquelles 16 fluide est soumis; les termes X, Y, Z
+disparai‘tront donc de nos equations. Nous considererons ρο, 0’681-
+8-(1116 18 (1688116 (18 fluide a l'etat 1811181, οὺ 11 8’8 110181 encore
+subi (16 11611811181108, 0081186 886 constante absolue. Nous admettrons‚
+
+a titre d'hypothese, (18618 111688108 p peut s'exprimer ²) en fonction
+de la densite:
+
+P=ffiw (U
+
+18 881816 (16 18 fonction p (ρ) (161168(118 evidemment de 18 nature
+*du fluide considere et en outre, des conditione d'ordre thermody-
+namique auxquelles le mouvement du fluide est assujetti. Nous
+supposerons d'ailleurs que l’on 8
+
+ρῗῖῖῗ-Ρ) -- 12, (2)
+Ρ
+68 conservant 811 symbole h 18 signification qui lui 8 616 8111111866
+
+(1888 18 premiere partie de 06 Travail ainsi que (1888 808 00181118-
+
+810811088 precedentes, L’equation (2) 86 (1611811 118186ἆ181618681 (16
+18 16181108
+
+ἕξι- -ὴέψέψὲἔ (3)
+
+61811116 (1888 168 Μ61801168 01168 11188 11881. Il importe d'observer
+que 18 constante h (186 renferment les equations (2) 61 (3), differe
+essentiellement, par definition‚ d'une autre constante Ic dont nous
+avons fait usage dans les equations qui determinent 18 81881616
+(1081 varient les composantes pa—p, p„ -Ρ, p„-p des pressions3
+la constante Ic sert notamment a 081801611861 l'influence qu'exerce‚
+
+¹) Bulletin 1111. (16 l'Acad. d. Se. de 01800116, cl. d. Sc. 11811881
+Nat„ Δ11866 1902, p. 19.
+
+²) C'eet l'hypotheee (1888 laquelle on 86 111806 habituellement3 par exemplo
+voir hamb, Hydrodynamies‚ Cambridge 1895, pp. 468—470. L’analyee que l'on
+
+va lire n’est que la generalisation immediate de celle que contiennent les ἐξ 257
+61 259 de ce Traite.
+

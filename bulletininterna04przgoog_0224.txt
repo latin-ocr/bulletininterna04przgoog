@@ -1,0 +1,49 @@
+247
+
+22. M. JOSEPH PUZYNA m. e. Ο sumach nleskoficzenie wielu szeregow
+potegowych i ο twiemzeniach Mittag-Lefflera z teoryi funkcyi. (me,-
+Summen anema-ich victer Poteram-einen und ilben- die funktio-
+nen-themoetischen Sdtze des Hem-n Mittaq-Lefflem. (Sur les sommas
+d’un nombre infini de adrias mutieres et sur le the'orbme de M. Mittay·Lesfler).
+
+Der Verfasser beschaftigt sich im Ι Teile dieses Aufsatzes mit
+der Summe
+
+s = ΣΒ, (ω)
+
+unendlich vieler Potenzrcihen
+2³‚(x)=a,0÷a‚1oe÷a‚2oe²÷ ..... , 3.·τ-1,2,3,....
+
+Soll diese Summe im gemeinsamen Konvergenzbereiche (r) ihrer
+Addenten nicht nur gleichmassig‚ sondern auch absolut konvergieren
+so gilt der Satz, dass in ihrer Entwickelung nach Potenzen von ,σε
+
+Αο-Ι-Αιω-ι-Αμυῗ-ὶ- ..... (1)
+die Koeffizienten
+
+ΑμΞαιμ -4-α2μ -Ι-ακμ «Ι- ...., μ-ΞΟ,1,2,....
+
+ohne Ausnahme unbedingt konvergierende Reihen sein mussen.
+Um die Umkehrung dieses Satzes ganz allgemein zu beweisen,
+wird dic Summe S untersucht, ohne irgend welche Voraussetzungen
+uber ihre Konvergenz resp. Divergenz in (r) zu macheu.
+Wenn man mit R,(oe) den Rest
+
+R‚(oe)=a,‚ v‚.oeV‘—†- .......
+des Addenten ‘1¹.(x) bezeichnet‚ so kann man stets solche — mit ε
+wachscnde — Zahlen ν, finden, welche (lje Grcnze lim„„ v,=00
+
+erreichen und fur welche die Summe
+
+nfflffl=gssffl ’
+
+in (r) gleichmassig und absolut konvergent wird. Der Beweis stutzt
+sich auf die Vergleichung der Reihe 2:112, (x)} mit einer beliebigen
+konvergenten Reihe: (ε1 -l- ε,ι -1- ε3 . . ..) von lauter positiven Addenten
+ε.. Die Summe Τνι Ἡ... wird als eine dem S adjungierte Summe
+bezeichnet.
+
+Es fragt sich nun, ob die F alle vorkommen kennem in welchen
+
+sanaem 111. 2
+

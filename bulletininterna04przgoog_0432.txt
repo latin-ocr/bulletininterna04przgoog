@@ -1,0 +1,47 @@
+447
+
+dargesteut werden kann. Wenn also das System (a) in Bezug auf
+p¹ . . . p„ auflbsbar sein soll, so soll auch das System (b) in Bezug
+aufp1⁰ . . . μ’) ειηΗϋεδειι· sein, und nur zwei von 101⁰ freien Gleiohungen
+enthalten. Man erhalt eine von diesen letzten‚ wenn man aus n
+von den Gleichungen
+
+&¹(oe10...p„⁰)=0 (i11,2..n)‚ F(x1⁰...p„⁰)=0,
+oder von den Gleiehungen
+G.(oel⁰...p„⁰)=0, F(x1⁰...p.⁰)=0
+
+1²¹⁰· . .p„⁰ bestimmt und in die letzte Gleiehung
+
+‹p(x1⁰...p„⁰)=0
+einfuhrt. Man bokommt dann die Gleichung
+φ (Ζοπιθ . . . oe„⁰) = Ο,
+die von μθ frei und kein Integral des Systems (131) ist.
+
+Wenn man umgekehrt das System der n -Ι- 2 Integralgleiohungen
+(161· Differentialgleichung 520: Ο
+
+‹p(20x1⁰...x„⁰)=0‚ F(ae1⁰...p„⁰)=o‚
+Gss(x1⁰...p,⁰)=0‚ (i=1,2,...n), (b')
+
+die nurUzwei freie von p? enthalten‚ und deren eine z. B.
+φ (2⁰x10 . . . x„⁰) == O
+
+kein Integral des Systems (B1) ist, bestimmt hat, so kann man
+nach dem Satze II das Integral im gewsshnlichen Sinne der Diffe-
+rentialgleichung (1) bekommen. ι
+
+In der Tat wir sollen aus den Gleiohungen (b') die Griffssen
+oe2⁰z⁰ p? mit Hilfe der Gleichungen
+
+x1=x‘(x1x1⁰..p„⁰), z=z(:c1oe1⁰..p„⁰), p1=p,(oe1ae1⁰..p„⁰)
+(i=2...n)‚ (i=1,2...n)
+
+eliminieren. Diese letzten sind in Bezug auf ω,“.. .p„⁰ auflosbar
+und man bekommt nach der Elimination derselben
+
+‹p‘(cc1⁰x1x2...p„)=o, 81‘(x1⁰x1...p„)=o‚ (i=1, 2...η),
+F(ae1...p„)=0, (6)
+
+wo die erate Gleichnng oe1⁰ enthahg da die Gleichung φ (oe1⁰· ..z⁰) ΞΟ
+kein Integral des Systems (132) ist.
+

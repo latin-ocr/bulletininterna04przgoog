@@ -1,0 +1,42 @@
+400
+
+Ρωε---ηἶθ-ἓμε1
+ΡηΖ-λθ-’ςῗμει
+37· p„=-—-26--2pte„
+( ) pn=—!¹‘71
+P===-!⁴72
+Paeu=-·!⁴Ys
+οὺ l'on a pose:
+ἒξ ὂη ὂζ
+⁸¹:55³ ⁸²:252 ἔθ’-’ῶσ-
+
+θεει-Ῐ-εὲ-ξ-εε
+·m=s÷}
+
+½=s÷ss
+
+Nous supposerons naturellement que les termes de degre supe-
+
+rieur au premier par rapport aux quantites ἐξ, ἐξ, ἐξ
+tites qui s'en deduisent en remplaeant successivement ξ par η et ζ,
+ainsi que par rapport aux derivees de ees quantites, sont negli-
+geables3 e’est en effet l'hypothese fundamentale de la theorie elas-
+sique de l'elastieite. Il est aise de voir que, pour montrer que le
+systeme (35) peut etre regarde eomme le resultat de la derivation
+par rapport au temps du systeme (37), il suffit de montrer que les
+
+derivees partielles du premier ordre des quantites
+(33) ’ ἐξ 3η Θζ ’
+
+&t ' &t ' &t
+par rapport aux variables α, b, c peuvenn dans les limites du degre
+d'approximation adepte dans la theorie de l’elastieite, etre confon-
+
+dues avee celles des quantites .
+(39) u , , υ , w
+
+par rapport aux variables x, y, z. Les quantites (38) ne different
+des quantites (39) que parce qu'elles sont exprimees- en fonction
+
+et aux quan-
+

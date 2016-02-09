@@ -1,0 +1,54 @@
+448
+
+Man kann aus den letzten n-{—1 Gleiohungetg wo φ’ (21⁰2, . . 4).)εο
+ist, pl . . . p, bestimmen‚ da diese Gleiohungen bei 051 = κιο die Form
+
+· 61(oe1⁰x‚...p„)=o, (i=1‚ 2...n), F(22⁰oe,..p„)=o,
+
+wo φ (z 2:1⁰ x, . . . p..) = Ο, ist, annehmen.
+Wenn wir also aus den Gleichungen (ο) noch (διο eliminiemn,
+so bekommen wir n ÷ 1 Integralgleiohungen
+
+f(2x1...x„)=0‚ 29,(ae1...p.)=0 (i=1, 2...n—1),
+F(x1...p.)=0,
+
+die nur eine von p¹ freie Gleichung
+1⁶(le ...ae„)=0
+
+euthalten, die ein Integral im gewfihnlichen Sinne der Differential-
+gleiehung (1) ist. ἱ
+
+Um das Integralsystem (b') von n -Ι- 2 Gleiohungen der Diffe-
+rentialgleichung ,Ω0 -- O mit den oben erwahnten Eigenschaften zu
+erhalten, sollen wir ein Integralsystem von n -ἦ- 1 Gleiohungen dieser
+Differentialgleichung mit denselben Eigensehasten suehen und dann
+im Sinne des Satzes II und 111 verfahren. .
+
+In der Tat es sei
+
+‹p(z⁰a:1⁰...x„⁰)=0, w(z⁰x1⁰...x„⁰)=0,
+Gt(z⁰x1⁰..p„⁰)=0(i=1,2..n—1)‚ (b')
+F(x1⁰...p„⁰)=0
+
+ein System der Integrale der Differentialgleiohung Q„ = O, das nur
+zwei von μθ freie Gleiohungen φ = Ο, ψ = 0 euthalt, deren eine
+‹p=O kein Integral des Systems (B‚) ist.
+
+Wir kssnnen zwei der Verauderlichen 2⁰, ³21⁰, mit Hilfe der
+Gleiohungen
+
+‹p=0, tp=0
+
+aus der Gleichung .Ωο = O eliminieren. Die n—1 Koeffizienten bei den
+Differentialen der ubrigen n—1 Veranderliohen z„ πθ sollen infolge
+der Gleiehungen (b') verschwinden. Wir kbnnen also diese lemen,
+gleich Null gesetzten, als n—1 unabhangige Gleichungen des Systems
+(b') annehmen. Wenn wir noch die Gleichungen
+
+(p=0‚ ψεΟ
+
+hinzufugen, so sehen wir, dass das System (b‘) in sich ein System
+der n -†— 1 Integralgleichungeu der Differentialgleiohung 90:ss
+
+ 
+

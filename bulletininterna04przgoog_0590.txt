@@ -1,0 +1,49 @@
+601
+
+{253 = Aa( -ἦ- Αάρ’ -1- Α”αε’ ’1- Epa-¹2¹ ’1- B‘Pu‘·‘ ’1- Β”Ρι’.’ “”1“ G> (14)
+
+ά-Ξξέ == — uc( — 2³72* (15)
+
+οὺ les lettres Α, A', A“, B, B‘, B“‚ 0, μ et T reprsssentent cer-
+taines fonctions dela densim ρ et dela temperatum ἴ du fluide au
+point (x, y, z) ὲ 1’6Ρο<]ιι6 t. Considdzrons maintenant un changement
+d'axes de coordonnesses qui reviendrait au changement de y' en z‘
+et de z‘ en μ’. Pour qu'un tel changement d’axes n’entraine pas un
+‹112202'
+
+dt ‚ il faut et il suffit
+
+ 
+
+changement de forme de l'expression de
+
+que l'on ait:
+A‘=A“; B‘=B“.
+
+Par oonsssquent, si l’on pose:
+
+A-A‘=m, B -B‘=n, A‘=-2‚ · B‘=--33P
+
+la formale (14) prendra la forme suivante:
+
+ 
+
+Qffzml‘-2(a1‘-†—a2'-{-a3')-†-np„,1—?²‘³'ssss'fv‘ffp‘* -Ι- 0· (16)
+
+⁷ considemus maintenant un changement d'axes &quivalent ὲ une ro-
+tation queleonque d'u systkme (ω’, y', κ’).
+Designons par ξ, η, ζ les nouveaux axes et par
+Ρξξν Pon> Pte> Ρηζ, Ρζξν Ρξη)
+“12 “25 “37 γι) ·’ Ύ2) γε)
+les valeurs correspondantes des quantitsss (11). Nous devrions trouver:
+
+Qjss=ma1-2(a1†az†aa)†npgff --Qj-{ffl 42?ssssss -†— 0. (17)
+
+D’autre part, si l'on doefisigne par l, l'‚ l‘' les oosinus directeurs (16
+l'axe des ξ, on trouve en s'appuyant sur les equations (15) et (16):
+
+ἐξὲξ Ξ-’ἳῃαι “ λ(α1“1“α2“1“α3)“1“η19ξξ “““ effi ψέτᾶῑίᾘζζ-ΉΟ-
+- 2(u÷'{-){01¹z‘z¹¹÷ c2‘z‘11-ff- σμγ) -
+
+- 2(-71÷†⁷²) {p„,‚z‘z“-{-p,‚‚,z¹‘z÷p,.„‚zz‘}.
+

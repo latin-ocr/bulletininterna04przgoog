@@ -1,0 +1,54 @@
+249
+
+(B04B1ae÷...)-}-(00÷01x÷..) = A0÷A,a=†...
+
+ist, so hat die Potenzreihe EA„ πμ, welche bis jetzt 11111· formell
+existierte‚ sicher (811811 1111 Falle lim Auzoo) einen bestimmten Kon-
+vergenzbereieh. Da 111111 (118 Koeffizienten Ans unbedingt konvergie-
+ren (lim Αμ bleibt unendlieh bei jeder Anordnung der Addenten)‚
+so 1111188 S 1111111811 Addenten ‘1³‚(x) absolut konvergent sein. Dies
+zieht auch die 8181811111888188 Konvergenz 118811 81811 ¹) und bereehtigt
+
+die Gleiehheit
+S=A0 -Ι- Αιω-Ι-
+
+fur riehtig zu halten.
+
+Die Umkehrung des zu Anfang ausgesproehenen
+Satzes ist (18111118811 bewiesen.
+
+J etzt kann die Frage nach den hinreiehenden Bedingungen der
+Endliehkeit aller Zahlen ν, beantwortet werden.
+
+Betraehtet 111811 wieder eine allgemeine Summe S und sind un-
+ter den Koeffizienten
+
+Ao, A„ A, ......
+
+(181· Entwiekelung (1), welche ι18181, (18 111811 uber die Konvergenz
+der Summe S 11181118 vorausgesetzt hat, wieder nur formell existiert,
+(118 Koeffizienten
+
+A„⁷ A„÷„.......
+
+ohne Ausnahme brauehbar d. h. unbedingt konvergent, wahrend
+(18888811 Ab, unbrauehbar (divergent oder bedingt konvergent)
+ist ²), so ist jetzt klar⁷ dass man allen Zahlen ν, (1811 8181811811 Wert
+m oder (ηπ-11) 11. 8. w. beilegen und dem S die Summen
+
+T„ T* ........
+11111 811811 ν, resp. =
+
+ΞΜ, m†I .....
+
+adjungieren kann. Diese Summen werden 818 (118 (18111 S adjun-
+gierten Summen vom Range: m, (φη-4- 1), u. 8. w. bezeichnet.
+
+¹) Dasselbe lasst 81811 von der Summe T'v, 2,- . . behaupten. [T'v² Ἢ. . . -1-
+
+-2 T ¹ . . . -ε .
+’1111111181 1181181(οὸἰὸιὶ8111811 Ao, A, , Ab, 1161111811 sowol brauchbare wie un·
+
+branchbare ναι-1188111188. Die Grenze limum„ Αμ, kann divergent sein.
+2*
+

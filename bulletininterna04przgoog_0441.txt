@@ -1,0 +1,53 @@
+456
+
+Der Satz 111 geht in folgenden Satz uber:
+Wenn man das System n -Ι- 2 Integralgleiohungen (181· Diste-
+rentialgleiohung Q„ = Ο von (181· Form
+
+9,(1310. ..p⁰)=.-0‚ (ει-1,2. m), F(x1⁰...p,⁰)=0‚
+
+‘¹²¹⁰ =h(3P-1-0—1-0)
+
+wo h den gegebenen Wert hat, erhalten will, so 8011 man (118 Dif-
+ferentialgleichung
+
+‹120- —p, wa, —...—p„⁰dz„⁰=0
+
+duroh irgend ein System der n Gleiohungen integrieren und daun
+die Gleichungen
+
+F(x1⁰...x„⁰z⁰p1⁰...p„⁰)=0, x1⁰=h
+
+hinzuffigen. Also der Satz 11 nimmt 88111188811811 (118 Form an:
+Um alle niehtsingulfiren Integrale (181· Differentialgleichung
+
+F= 0, wo PE ;-Ι- Ο ist, zu bekommen, 8011 man die Differential-
+
+&Pl
+gleichung ⁷
+
+(120 -p20doe20 —— . . . - ¹p‚.⁰dt¹:‚,⁰ = Ο
+durch irgend ein System von n Integralen
+G,(x2⁰...p„⁰)=0, (i=1² 2...n),
+integrieren und daun die Gffisse
+1 x,⁰...oe„⁰z⁰p1⁰...p„⁰
+aus den Gleiohungen
+04(x,⁰...p„⁰)=0, (i=1 .. Al), F(h...p„⁰)==0,
+
+x.=x.(x1hx,⁰...p„⁰), (i=2...n)
+z=z(x1hx2⁰...p„⁰),
+
+p5=p.(x1hoe,⁰.. ·Pn⁰)2 (²:²²1 · · At),
+
+wo 2n letzte Gleichungen 2n Hauptintegrale des Systems (131) in
+Bezug auf x, :h sind, eliminieren.
+Satz IV. Wenn man (118 Differentialgleiohung
+
+dz⁰—p2⁰dx„⁰—...—p.⁰doe„⁰=0
+durch n Integrale
+tp(x2⁰..x„⁰z⁰)=0, G.(x„⁰...x„⁰z⁰..p,⁰)==o (i=1, 2..n-1),
+
+ 
+
+ 
+

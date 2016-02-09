@@ -1,0 +1,43 @@
+288
+
+Les equations (4) sont celles auxquelles j'ai eu recours dans plu·
+sieurs de mes ecrite ¹).
+
+L’omission des termes (1) dans les equations (9) du ξ 1. 881
+legitime lorsqu’on admet certaines hypotheses que j'indiquerai d’une
+facon explicite. Representons par (6⁰) et par (⁶35) l'unite (18 longueur
+et l'unite de temps. Supposons, en premier lieu, que les composan-
+tes u, v, w (18 18 vitesse relative du fluide par rapport anx axes
+soient tres petites ou negligeables par rapport a (6⁰) l (ἰῆς c'est
+l'hypothese, (118811188 plus haut, (111 mouvement „lent“. Supposons
+encore que le temps (18 relaxation T soit une quantite qui, com·-
+paree a (ζῷ’), 8011 10111 811 11101118 finie3 en sorte que les produits
+u T, v T, w T soient extremement petits ou‘negligeables par rapport
+a (6⁰). Supposons enfin que les quantites ἢ
+(5) Φ, (8) Ξζξ (8) ἐξ (8) {g
+aient, a tout moment 81 pour tout point 811118 81’111181·18111· du fluide,
+des valeurs du 11181118 ordre de grandeur. On designe ici par Φ,
+par ΘΦ s Hx etc„ les valeurs veritables des composantes des pres-
+810118 81 (18 leurs derivees par rapport aux coordonnees. Oes hy-
+potheses permettent de negliger 188 termes mentionnes plus haut.
+Elles suffisent pour la demonstration que nous donnerons 811 ξ 10.
+(1’11118 (188 propositione fondamentales (18 88 Memoire (voir l'equa-
+tion (23) du ξ 10. 811181 que les conclusione qui s'y rattachent).
+
+Il ne faut pas perdre de vue que les Φ, 188 ΘΦἏΘΦ, ΘΦΙΘῃ, ΘΦΙΘΖ
+qui figurent soit dans (1) soit dans (5), representem, ainsi qu'il a 818
+(111 plus 118111, 188 valeurs veritables qui ne penvent 88 calculer
+qu’en partant des equations rigoureuses (1) et (2) ou (9) du ἓ 1.
+Νο118 verrons cependant 811 ξ 10.(1118188 valeurs de Φ qui 88 dedui-
+sent des equations approchees (2), (3), (4) du present paragrapho,
+different des valeurs veritables (appelees *P 811 ξ ΙΟ.) seulement
+par des termes d'ordre superieur. D'autre part, en se reportant
+8 l'equation (23) (111 ξ 10. 011 s'assure que les termes
+
+ΘΦ ΘΨ ΘΦ ΘΨ m) ΘΨ
+
+(6) {Zet -ἔῖ, bil-et ᾗ, ἓῖ81-ἑῖ
+
+ι)Β1111811111111. de l’Academie des Sciences de Cracovie, cl. (188
+Sc. Math. st Nat.. Aunes 1902, p. 193 ibidem, p. 4903 ibidem, p. 507.
+

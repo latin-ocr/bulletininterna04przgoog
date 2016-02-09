@@ -1,0 +1,51 @@
+728
+
+11. Considerons maintenant l'integrale
+
+1=Ldae(ss13⁷(²5›ag).
+
+Posons ξ :co-fh, h etant une nouvelle variable3 il viendra
+
+1=s²⁰d3<s2<oe÷200212>=
+
+2042221
+
+=Ldaes[ 1⁰ <ae÷h>÷1⁴‘(oe—h)]dh‚·
+
+d'oh l'on tire, en changeant l’ordre des integrations,
+
+η ηψη
+
+(32) 1=sa12 s[ff(oe÷12)-1-F(x-h)]dae.
+
+’τυ-η
+Supposons maintenant que les expressions
+Fen„ 4h) et mmo—h)
+tendent vers les limites bien determinees
+F (xo —†—0) et 1‹'(a·.0 -0)‚
+
+lorsque la variable positive h tend vers zero.
+On pourra alors trouver un nombre positis ὁ tel qu'on ait pour
+tous les points u de l'intervalle (mo—6, τὸ)
+
+(33) F(u)='=F<x0—0>÷‹1>1<u)‚mmm< ε
+et, pour tous les points de l'intervalle (cco, xo -{- ὅ),
+(34) ΡΨ) = Γ(ἲο “i'’ 0) ‘i‘ <Pa (α), Ι <Pa (α) Ι < ⁶2
+
+ε· etant un nombre positis, donne ὲ, l'avanoe.
+Considerons maintenant les integrales
+
+z÷n ῆψη
+
+s 12 (seq-max et snae-mm.
+
+On peut eorire
+
+Q÷n†n Q÷n†b
+
+sF(ae÷h)dae=sF(u)au:sF(u)du÷sF(u)au.
+
+ἦ“η ἤ-ηψῦ ὴ-ηψλ
+
+ 
+

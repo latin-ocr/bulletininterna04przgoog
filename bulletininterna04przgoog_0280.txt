@@ -1,0 +1,47 @@
+303
+
+a formuler de la maniere suivante la condition 6116 devraient ve-⁴
+rifier‚ pour &tre approximativement exactas, les equations (3) du
+ξ 3.; 166 quantites φη tp„ φ, devraient s’annuler identiquement pour
+λ = Ο, με Ο, v= Ο. 011 devrait avoir, en d’autres termes,
+
+Lim (t53 (la)
+
+ainsi 6116 deux equations analogues. cette oonolusion n'etant donnee,
+dans le memoire de M. Zaremba, que oomme une consequence
+qui (16661116 (16 la proposition deja analysee, nous serions en droit,
+en nous appuyant sur 66 qui precede, (16 116116 refuser a l'admettre.
+Mais il nous parait preferable (16 la sonmettre a l’exatnen en sui-
+vant nne voie independante3 o'est 66 qui fera l'objet du paragrapho
+suivant.
+
+Reprenons 166 considerations (111 ἓ 6. Supposons, pour simplifier‚
+que 16 systeme Ol τι y1 ²1 se confonde oonstamment aveo 16 syste-
+1116 Ο’ ae‘ y' z' en sorte que l'on ait
+
+21=03 4⁴1=03 v1=0· (2)
+
+La valeur Φ1 (111 ἓ 6. pourra s'appeler ψ’ puisqu'elle se rapporte
+au systeme 0' ω’ y '.z' Nous aurons
+
+‹12-<1fl=2(tss—‘¹'÷{—2¹')-1—u(t{—÷2„)awo—534 Φ) (3)
+
+Imaginons 6116 166 valeurs (16 λ, μ, ν tendent vers zero, Il est juste
+d'exiger‚ dans 66 eas, 6116 la valeur de Φ eonverge vers ψ’. L'equa-
+tion (3) nous apprend qu'il n'est nullement indispensable que 166
+equations (1) soient verifiees pour 6116, dans 66 666, Φ converge
+vers ‘¹³¹3 la condition qui doit etre templie est seulement que 166
+expressions
+
+ιέξψζξ, ι-Ξξψ-ᾙ, &aug—2¹} (4)
+
+tendent, pour Z=u=v=Q vers des limites qui ne sont pas in-
+finies.
+
+ξ 12. considemus, aveo Μ. Zaremba, un fluide dont on rap-
+porte 16 mouvement a un systeme de ooordonnees O‘x' y'z‘. Intro-
+duisons ensuite, ainsi que plus haut (ξ 5.), 11116 serie de systemes
+differents:
+
+Ooeyz 9 01 ³³1 311 ²1 2 02 ⁵⁶2 ys ²2 eto· (Ῑ)
+

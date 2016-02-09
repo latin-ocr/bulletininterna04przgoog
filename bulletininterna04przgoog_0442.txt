@@ -1,0 +1,50 @@
+457
+
+wo es nur eine von Ρ,0 freie Gleiohung ψ.-.- Ο gibt, integriert hat,
+und wenn man die Grbssen 2:2⁰ .. . p1⁰ . . .Ρ,,0, Ρ1 . . .Ρ,, aus den
+Gleichungen
+
+zp(.2·2⁰...x„⁰z⁰)=0‚ G.(x2⁰...p„⁰)=0(i=1,2...n--1)
+F(h, ³:2⁰.. Ρ,0)-;- O, x=x(x1ha=2⁰ ...p,⁰), (i=2...n)‚
+z= z(x1h:css⁰. Ρ.0), Ρ,-τ-Ρ,(ω11ιαῑ,0. „.⁰)‚ (i=1‚2...n),
+
+eliminiert hai:⁷ wo die 2n letzten die Hauptintegrale des Systems
+(B2) in Bezng auf xl =h sind, so bekommt man das Integral
+
+f(2x1...x„)=o
+
+in gewbhnliohem Sinne. Das letzte hat die Eigensohaft, dass es bei
+x1=h w(oe2...x„z)=0 wird.
+Satz VI. Wenn man die Differentialgleiohung
+
+dz„ —p20dx20 -- . . . —p„⁰dx„⁰ = Ο
+durch n Integrale
+w(x2⁰...x„⁰z⁰)=0, Θ,(ω,0...2οΡ30,..Ρ,,0)--Ο,
+
+wo es nur eine von 101⁰ freie Gleiohung zp-:O gibt, die in
+Bezug auf n willkflrliohen Konstanten Ol... 0„ auflbsbar sind, inte·
+griert hat, und wenn man die Grssssen 33921391), aus den Glei-
+chungen
+
+w(ae2⁰..a:„⁰z⁰)=0, Ga(2³2⁰,···2⁰P2‘-'··P.⁰)=0‚ (i=1‚2..n-—1)‚
+F(hx2⁰...p„0)=0, oe1=x.(ae1hae‚0...p„⁰)‚ (i=2...n)‚
+
+z=z(x1hx2⁰...p„⁰)‚ Ρ- =p(oe1hae2⁰.. .Ρ,,0), (i=1,2...n),
+
+b—‘plo Fss Ο)
+
+eliminiert hat, 50 bekommt man das vollstandige Integral im ge-
+wsshnliohen Sinne der Differentialgleiohung (1).
+
+Dieses Integral hat die Eigensohaft‚ dass es bei :cl =h die
+Form
+
+tp(x2...x„z‘)=0
+
+annimmt„
+
+10. Wir wollen jetzt einen besonderen Fan in Betraeht ziehen‚
+namlieh den Fau, wenn die geg-ebeno Differentialgleiohung die Form
+
+Bulletm 111. 3
+

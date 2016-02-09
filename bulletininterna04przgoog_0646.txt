@@ -1,0 +1,69 @@
+653
+
+wir setzen :norst vorans, dass diese Gleiehungen in Bezug auf
+m dor Grbssen p¹ z. B. in Beug auf p,...p„, auflfisbar sind, und
+transformieren mit Hilfe der Formel:
+
+2=H†x,p,-{-...-}-x„p„, ats=p¹¹² p‘=—xs' (i==1‚2...m).
+So erhalten wir die Gleiehungen
+
+ 
+
+ 
+
+ 
+
+F‘(p,‘..p„,‘, φήμῃ, H—x,'p,'—..—x„‘p.'‚ —x1‘‚..—x„‘‚ Par-pst
+= Fss‘(x,‘...x„‘ae„÷1...ae„, H‚p1'...p„'p„4,...p„)=·- 0 (I'')
+(2'=1, 2...m)‚
+die ein vollstandiges System bilden. Da die Determinante
+ὁ) (Γ, . . . F„) ‚⁸ ΘΕ] Ι &113¹ &Fut , &El
+2(p,...p„‚) εἶθ-1) ὲΓΓ 1³¹ ’ἑῇ ····· επ] 4¹⁹¹ εΗ
+
+ 
+
+ 
+
+ 
+
+eff: ,ὓ ,’ ,,, ,ο ’
+ἔξί-ἱ-Ρπι ff’m—3U÷pm ΘΗ
+
+von qul verschieden ist, so erhalten wir durch die Entwickelung
+derselben
+
+1 .. ‚x‘oe„,H, x'oe41... κη’) “
+
+ 
+
+ 
+
+1:0-
+
+Es folgt darana, dass nicht alle Determinanten ,
+
+‘NF'PQQ ᾕ ἦρξ’-...Ε’Ᾰ) „-
+ἑ) (κβ ..oe„,')⁷ &(oe1'..x'“-„ Η, Ξά-ι-ιυῧυῖ)
+
+ 
+
+ 
+
+ 
+
+gleieh Null sind. Setzen wir zuerst voram, dass
+
+3—(E,'F—'-‘‚3):'- Ο
+
+ὂ (2:1¹ . . x„')
+ist. Die Gleichungen (I'‘) losen sich in Bezug auf xj . . .x,„' in der
+Form z. B.
+
+x! = φί (κῆ, . . m„ H, ps ..pm'pm41 . ψη) (ὶ--1, 2 . . m). (Im)
+Dieses letztes System ist ein vollstandiges und die Gleichungen
+[cof—(W, xu'- φ,] =0 (i, k=1, 2...m)
+
+sind durch die Gleiohungen.(1“') erfullt. Diese letzten Gleiohun-
+gen euthalten keine der Veranderlichen xj . . κη’. sie sind die blos-
+sen Identitaten und das System (1¹1¹) ist in Involution. Wenn
+

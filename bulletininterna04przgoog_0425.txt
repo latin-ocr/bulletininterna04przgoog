@@ -1,0 +1,51 @@
+440
+
+ist. Also folgt fur Ω’ die Form
+
+Ῑλᾱὲίι -(Ῑλᾶἓίι)ο
+Q'=e (dzo—p10dx10—...-p„⁰dx„⁰),
+
+wo F(x1⁰...p„⁰)=o‚ φ (x10...p„⁰)=0 und λ fur den Fall ξΕΞΟ
+
+32
+gleioh Nun, im Faue {gv-„120 willkurli0h‚ ab‘er nicht gleich Null ist.
+b. Wir wollen uns jetzt zur Integration der Di-fferentialgleiehung
+Q'=dz—p1dx1—...—p„dx„=09
+
+wo F (xl . . . x„zp1p„) = O ist, wanden.
+Man soll die transformierte Gleichung
+
+⁴ Ῑλᾶἵι-(Ῑλάἓίὼ
+Q‘=(d20—p1⁰dx1⁰—-...—p„⁰d:n„0)e ΞΟ,
+
+wo F (³51⁰ . . . x„⁰ 20 1⁹1⁰ . . .p‚.⁰) = Ο, φ (11:1⁰. . .p„⁰) = Ο ist, durch die
+kleinste Anzahl n der Integrale integrieren. Es folgt, dass entweder
+
+Ωό = (Ζεῦ —- p1⁰dx1⁰ -— . . -— p„⁰dae„⁰ = O,
+oder
+θῙλάΞΙι - (Ῑλάἒίι)ο- O
+ist. Die letzte Voraussetzung ist nur dann m6g1i0h‚ wenn ἕἹ-Ιτ Ο
+
+ist. Setzen wir, dass
+ΩὈ = dzo — p1⁰dx1⁰— . . . — p„dx„⁰= Ο
+
+ist, wo F(oe1⁰ . . . cc„⁰ z⁰p1⁰ . . .p„⁰) = Ο, φ (11:1⁰ . . .p„⁰) .-=: 0 ist.
+Wir sollen diese Gleichung durch die kleinste Anzahl n der
+Integrale integrioren oder wir sollen die Gleichung
+0=dzo—p1⁰dae1⁰—...—p„⁰d:c„⁰=0
+
+durch n —†- 2 Integrale integ-fieren, deren zwei F (³:1⁰ . . . μθ) = Ο,
+φ (2:1⁰ . . . p„⁰) = O vorgeschrieben sind. WVenn ein solches System der
+⁷²-†” 2 Integrale gesunden ist, so kbnnen wir daraus n Integrale
+der Gleichung Ω’ =O ermitteln: in der Tat, es sei dieses System
+der Integrale
+
+Q(x,⁰....p„⁰)=0, h⁷(x1⁰....p„⁰)=0, ‹p(x,⁰....p„⁰)=0.
+VVenn wir jetzt die Gleiehungen
+
+8¹(x10....p„0)=0 (i—.=1‚ 2....n),
+
+ 
+
+ 
+

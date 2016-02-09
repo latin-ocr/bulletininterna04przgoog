@@ -1,0 +1,47 @@
+689
+
+wo R(x,⁰...p„⁰)=0 oe5(x,⁰...=0 (i=1,2...m) ist zwei Systeme
+der Formeln der Pfaffschen Transformation des Differentialausdru-
+ekes Q', so dass
+
+Ω’;·ἔ)-ο((ἰ2ω- p,⁰⁰ dx,⁰⁰- - p„⁰⁰ dx„⁰⁰)
+wo 113(x,⁰⁰...p„⁰⁰)=0 w1(x,⁰⁰...p„⁰⁰)=0(i=1,2...m)ist, und
+
+Ωιεῖέωῖο -. p1⁰dx⁰ — . . . - P.⁰ ἅπερ),
+
+wo R(x,⁰...p„⁰)=0. ‹p4(oe,⁰...p„⁰)=0 (i=1‚2...m) ist, ist. Es
+existieren offenbar die Formeln der Transformation der neuen Va-
+riablen des einen Systems auf die neuen Variablen des anderen.
+Wenn wir mit t„4, . .. tta-btu- die unabhangigen Grbssen aus den
+:⁶1⁰⁰ 200 μω und mit y„4 ..... (ΛΜΗ-.. diejenigen aus den oe1⁰z0p4⁰ be-
+zeichnen, so wissen wir, dass tu÷ .... ‘ww-- die Funktionen der
+y„4„ . . . y„„,„„„ sind. Diese letzten Formeln transformiren die Glei-
+
+cbung
+dzw —ptwdx1w-...—-p„⁰⁰doe„⁰⁰=0.
+
+wo F5(x1⁰⁰...p„⁰⁰)=0, u1,(oe1“...p„⁰⁰)=0 (z’= 1,2. ..m) ist, auf
+die neue
+
+dzo—p,⁰dx,⁰—-...-p„⁰d.oe„⁰=0
+
+wo F, (κβ . . . p„⁰) = Ο, ‹p1(x,⁰, . .p„⁰)= Ο (i = 1, 2 . . . m) ist. Es folgt
+damus, dass n -1- 1 -- m Integrale ’
+
+Θα’(.τι””...ρ,,””);-Ο (a=1‚2...n-†-1-—m)
+
+wo E(x,⁰⁰ p„⁰⁰)=0‚ 2111(ae100 p„⁰0)=0 (i=1‚ 2...m) ist, der
+ersten in die n -ξ- 1 - m Integrale Θα (⁵⁶1⁰ . . . . μθ) = O, wo
+R(x1⁰....p„⁰)=O‚ Ws(·2'1⁰-···P„⁰)=0 (i=1,2....m) ist, der
+zweiten mit Hilfe dieser Formel ubergehen. Es ist klar, dass wenn
+wir diese letzten auf die ursprunglichen Variablen zap, transfor-
+
+mieren, so bekommen wir die Gleiehungen
+θα(.τ,...ρ,,)--Ο (a=1.2...n—†—1—-m)‚
+
+wo b: (2⁶1- .. μ) =0 ist, die η-ἦ- 1 — m Integrale der Differential-
+gleichung Ω’ =0 bilden. Wir sohliessen darauS„ dass das nicht-
+singulare Integral der partiellen Differentialgleiohungen (I)
+
+θσι (ae,..p„)=0‚ b;(x„.p„)=o (a=1,2..n-}-1-m‚ i=1‚2..m)
+

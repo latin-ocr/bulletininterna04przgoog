@@ -1,0 +1,47 @@
+686
+
+lya eine von vomherein gegebene Form z. Β. lya = y1 haben
+wird. Danu wird
+
+μ — effi -y10 Ι ,
+uo
+sein und infolge der Unabhangigkeit der Veranderlichen y1
+
+y2„41-„. einen ganz willkurliohen Wert haben. Wenn wir 8180
+die Gleichungen
+
+Θζ,ι (oe10...p„⁰)=0 (a=1‚2..‡n-†—-1‘—m),
+
+wo E(x1⁰....p„⁰)=O, oe1(x1⁰....p„⁰)=0 (i=1‚ 2...m) ist,
+mit Hilfe der Formel der Pfaffschen Transformation auf die ur-
+sprfingliehen Variablen xfzp‘ transformieren‚ 80· bekommen wir
+
+n—ff-I —m Gleiehungen
+3a(³³1···20n)=0 (a=1,2...n-†-1—m)‚
+
+wo Ιῑζ(εε1 ...p„)=O (i=1‚2...m) ist, die n-†-1—m Integrale
+der Differentialgleiohung Ω’ =O sind. Die n÷1 Gleiohungen
+
+²92(·2‘1···Pn)=0 (ot=1‚2...n-{—1-m),
+Fj(xl...p1)=0 (i=1‚2...m)
+
+sind also ein gemeinsames Integral der partiellen Differentialglei-
+chungen (I) und (1). Wenn wir noch darauf aufmerksam macheu,
+dass wir bei der Transformation nur die Formel (8), die (188 Sy-
+etem der Hauptintegrale (181· Differentialgleichungen der Matrix
+(Bl) sind, benutzen‚ so konnen wir den Satz V 81188ρτ8811811, in-
+dem wir das in dieser VVeise erhaltene gemeinsame Integral nieht—
+singulan nennent*
+
+Satz V. Um das gemeinsame nichtsingulfire Integral der
+m < n-†-1 partiellen Differentialgleiehungen (Ι) in Involution zu
+erhalten, bestimme man ein System n†1 -†-m Integrale der Dif-
+ferentialgleiohung
+
+90=d20—p10dcc10—...—p„⁰doe„⁰=02
+Ooe(ae1⁰...p„⁰)=0 (a=1‚2...n-†-1—m),
+(f) I‘}(ae1⁰...p„⁰)=0‚ Ws(oe1⁰···Pn⁰)=0 (i=1‚2...m)‚
+
+das m 'gegebenen Gleiohungen (I')
+F.. (2⁶1⁰ . p„⁰) = Ο (z' = 122 . . . m),
+

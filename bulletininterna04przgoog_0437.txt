@@ -1,0 +1,53 @@
+452
+
+x4=x¹(x1:c1⁰...p„⁰) (i=2...n)‚ z=z0(oe1x1⁰...p„⁰)‚
+(α) Ρ,-τ-]ο,(ωιω1“...Ρ,θ) (i=1...n)
+
+eliminiert hat, so bokommt man das vollstandige Integral
+29.(x1...10.)=0(i=1‚ 2...n), F(x1..·P-)=O
+
+der gegebenen Differentialgleiohung (1).
+
+Alle vollstandigen Integrale konnen in dieser Weise erhalten
+’ werden. Wenn dieses vollstandige Integral auch das Integral im
+gewbhnliohen Sinne sein 8011,θ 8ο muse das System (b) nur zwei von
+μθ freien Gleiohungen euthalten.
+
+Wir k6nnen also folgenden Satz VI aussprechen:
+
+Satz VI. Wenn -man die Differentialgleiehung Ω = O durch
+
+η-Ι-2 Integrale:
+G.(x1⁰...p„⁰)=0 (ἱππ-1, 2...n),
+(b) F(2:1⁰...p„⁰)==0, <p(:151⁰...p.⁰)=0
+
+von der Eigensohaft, dass nur die n ersten Gleiehungen n willkur-
+liehe Konstanten 01 . . . . C„ athalum, in Bezug auf welche sie auf-
+losbar sind, und dass φ --- Ο kein Integral des Systems (131) ist,
+die nur zwei von pst freie Gleiehungen enthalten‚ deren eine kein
+Integral des Systems (131) ist, integriert hat, und wenn man die
+Gri’ffisen (εὖ) 2⁰ 121⁰ Pa (i = 1, 2 . . . n) aus den Gleiehungen (b) und (a)
+eliminiert hat, 8ο 8τ11ῑ11ῐ man das vollstandige Integral im gewbhn-
+lichen Sinne.
+
+Alle solohe Integrale konnen in dieser Weise erhalten werden.
+Man bekommt das vollstfindige Integral‚ wenn das System (b) z. Β.
+die Form hat:
+
+xi⁰=01 (i=1, 2...n)‚ q2(z⁰x1⁰...ae„⁰)=0, F(.T1⁰...p„⁰)=0,
+
+wo φ = O kein Integral des Systems (131) ist.
+Man bokommt das vollstandige Integral im gewsshnliohen Sinna,
+wenn das System (b) z. B. die Form hat
+
+z⁰=Z¹oe¹⁰p.⁰, P1⁰=Ca (i=1‚ 2...n)‚ F(x1⁰...p,.0)=0‚
+ι
+
+wenn selbstverstandlioh die gegebene Differentialgleiehung F (x, . . .
+
+p..) Ξ Ο die Form z — xl g — .. - x„ g} 1-2- Ο nieht besitzt.
+
+ 
+
+ 
+

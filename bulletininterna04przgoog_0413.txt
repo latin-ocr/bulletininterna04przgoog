@@ -1,0 +1,53 @@
+428
+
+Ο Xl ...... X„
+-- X„ (11) ...... (p 1)
+
+Δ12
+
+ 
+
+ 
+
+-Χρ, (1‚p).....(pp)
+
+versohwindet. Diese Gleiohungen (A) sind hinreiohend und Ω hat
+nach der Transformation die Form
+
+Ω =e52dy¹ff2 (1924- · · · - ÷ Υράυρ), ·
+
+wo 1⁷2... Y, von 311 frei sind ¹).
+
+2. Der Differentialausdruek
+Q=dj;,-{-F1ds‚ †····†F-df-
+
+mi·t ’γι-1» 1 Differentialen, wo alle Veranderlichen unabhangig sind,
+kann immet durch m—}- 1 und nicht weniger endliohe Gleiehungen
+zum Versohwinden gebracht werden. Die allgemeinste Methode da-
+
+fur ist die folgende: Man stellt zwisohen fo, f„ . . . f„ k(<m-}-1)
+beliebige Gleichungen
+
+f0=G0(f„f,÷1‚.....f„,)
+(a) f1=81(f‚,f‚41,.....f„‚)
+
+auf, deren eine die Veranderliehe ἡ) bestimmen solL und daun
+haben die gesuehten ,νε-ΡΙ Relationen die F orm ²)
+
+(β) ῘΟΞΘο,....Ῐ,-1--Θ,-ι,
+ῐι-ι-Σε-ξςὲίῐ,ψζξῗεο,.ῃηΡ,-ι- εζ-ΙῗΞῙΓΙ-ῗὲξέεο.
+
+Wenn wir die Veranderliehe fo auf die neue H mit Hilfe der
+Formel
+
+H=f0 ψ f1f2÷-·-† ΡΗῘ...
+
+transformieren‚ so bekommen wir den Differentialausdruek und das
+System der, Gleichungen (β) in der Form
+
+¹) Di >so Gleiehnngen sind ausgostellt worden bei ,Jacobi (J. Crell, 2), A. Ma-
+yer (Math. Ann. Bd. 17³. Verg. auch moine Arbeit (Denkschrift. der Neuruss.
+Univ„ 1896).
+
+²) S. Lie. Math. Ann.‚ ssd. 9.
+

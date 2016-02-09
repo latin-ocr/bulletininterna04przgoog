@@ -1,0 +1,54 @@
+252
+
+ 
+
+*Γ-’,ΣιαῙ 1÷²÷¹⁹= ⁰³²1
+
+ist. sind nnn die Summen ΚΜ, fur μ>ηι alle unbedingt konver-
+gent, wahrend K„ noch divergent ist oder bedingt konvergiert, so
+sind die Koeffizienten A, A* ..... brauehbar und dem S konnen
+T„ ,,,, T--i- ...... adjungiert werden. Dieses Kennzeiehen der Existenz
+eines bestimmten Ranges wurde bis jetzt ὃΐῡοτε an bekannten Funk-
+tionen wie senx, ζ (x), p(oe) n. s, w. bemerkt. · Es gilt —- wie aus
+dem Obigen hervorgeht '—— fur eine sehr ausgedehnte Klasse von
+Funktionen [mit endliehen limm„ Ca, k=1, 2,...] und kann bei je-
+der beliebigen Funktion der hier betraohteten Art angewendet
+werden.
+
+Setzt man also
+
+P,(ae)= A„ -ἦ- A⁸1 ω -ῇ- . . . ⁸}- A,‚„„,x⁸⁸‘¹
+oder =A,o -1- Anat-{- ÷ A„ „,„,.ae”⁰‘·¹,
+
+je nachdem die Existenz des Ranges m naehgewiesen werden konnte
+oder nieht, so kann eine der verlangten Funktionen die Form haben:
+
+(1) f(oe)={[a (2²
+
+ 
+
+0)-P·‹ae>]-
+
+Im Faue eines bestimmten Ranges m werden alle Funktionen‚
+welche durch die Form (I) dargestellt werden und in walchen sich
+kein (ausserer) Addent, der eine ganze Funktion von x selbst ware,
+vorfindet, einfaehe Funktionen m‘fflRanges genannt3 [analog
+mit einfaehen Produkten‚ welche Benennung H. Vivanti ein-
+gefflhrt hatJ.
+
+Die Funktion j(x) m‘f'* Ranges hat in oe=0 eine Nullstelle m*
+oder auch hssherer‚ aber bestimmt keiner niederen Ordnung3 denn
+man hat in der Umgebung der Stelle oe=02
+
+G, (xia) —P‚(ae)=A,„oe”⁸-†- ...... ---ι«·,(ω),
+
+und es lasst si'ch de'mnaeh aus allen Addenten der Summe (I) ein
+Faktor ω’, wo kgm ist, ausseheiden.
+
+Um nun weiter die Funktion Hx) m‘en Ranges in ihren Fort-
+eetzungen zu untersuehen‚ werden die Gleiehungen
+
+Qw=ssw÷ffiw
+
+ 
+

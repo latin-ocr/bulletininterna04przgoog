@@ -1,0 +1,58 @@
+719
+
+Oe resultat a lieu pour tout nombre donne η < ηο et pour eha-
+que valeur donnee de το, prise dans l'intervalle (η, 2 π-η).
+4. Soit maintenant F (x) nne fonction queleonque‚ bornee et in-
+
+tegrable dans l’intervalle (0, 271).
+Envisageons l'identite (manue, fondamentale dans la theorie des
+
+series de F ourier,
+
+ 
+
+ 
+
+n designant. un entier queleonque (positis).
+
+Multiplions cette identite par F (ξ) dg et integrons-la, en eten-
+dant l'integration ἐι l'intervalle (0, 221).
+
+On obtient l'egalite bien eonnue
+
+Ωπ
+
+ 
+
+·· sm ἷφῑῖ-Ῑ-(ω-ξ)
+(9) ἶῑ-ἕέ -4-πΣ (ak eos lc x 4- bk sin k x) :J-Fffi) 2 qin {TE-md&
+'‘¹²’' ⁶ 2
+
+oh l'on a pose
+
+,π 222
+ak=sssmg>00skgdg b*=31is¹⁵'(5)⁸ink5d5 (k=0‚1‚2‚...)
+
+Reprenons les nombres η et tro, definis dans le n⁰ precedent.
+Multiplions (9) par dx et integrons-la entre les limites :vo—27 et
+
+το —}—- η. On trouve
+
+ 
+
+ 
+
+ 
+
+{2⁶3⁰ —f—zrz Σ {iil-(⁶3 (a, eos 11:250 -ξ- b„ sin k xo) =
+k=1 η
+2504- ξπ
+2 sm · 2--
+:rr-⁷] ⁰
+
+puisque
+
+,το-θ η 104²]
+sd³0=2²72 seoskoedngffizlffl eoskxs„
+:to-⁷2 ,το-
+

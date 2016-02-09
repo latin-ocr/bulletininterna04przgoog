@@ -1,0 +1,43 @@
+172
+
+· flux, p. ex. (1666 166 161166 (16 Ρο16661116, par trois donnees: 16
+pression en deux points et la temperature du gaz. Mais, 6016616
+nous 16 verrens plus 1016, 11 n'y a 16 qu'une apparente simplicite
+de 16 101 (16 Poiseuille, 666666 par l'omission de faeteurs 66606-
+(161166, 60166161661 (16 l'influenee de l'etat de mouvement (16116 16
+proximite des extremites du tube.
+
+ξ 25. Un exemple qu'il serait plus facile de 16611661 661 16
+mouvement variable (161161 par les conditions: v = w = 03 u = f(x‚ t);
+mais 66 probleme 66 pourrait 6116 166016 (1666 10616 66 8666161116.
+
+Νο66 supposerons (1066 que 16 gaz, 6 pression initiale p„ et tem-
+perature 00, soit 60111666 (1666 66 (1571116116, 6 parois polies, ferme
+d'un 6616, (16 1’66116 6616 admettant un piston, 6 masse negligeale
+qui y soit 6610666 par une 10166 constante ας pour simplifier, nous
+negliget-ons aussi l'effet de l’inertie du gaz, 611 supposant 66 11106-
+vernent 1661661666, analogue (1666 10616 606 6166ἀ661
+
+(41) u = nefa).
+
+Or, 16 force exterieure a doit 6116 1161611666 par 16 somme de
+16 pression 1616116616 (16 gaz et (16 11011661661 161611661, 6’661’6-(1116,
+
+(1’6Ρ166 (1):
+
+(42) Pu=a=p-}u{{·
+L'introduetion (16 ΞΞΞ f(t) et 16 substitution de p (1666 l'equation
+thermique:
+
+{²5- ψ ’ψ - (329²
+donne l'equation:
+(43) Z ÷ ᾆξ’-71 f2 = 0.
+
+μ
+On en (16(1611 par integration:
+(44) }=Ae“‘—{; 0111 α--τέῖ-ι-Ιΰ
+et7 en introduisant 16 valent initiale
+452 ὃτι
+
+3“ 69603Ρο “’ “²
+

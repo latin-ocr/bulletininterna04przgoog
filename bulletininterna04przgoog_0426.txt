@@ -1,0 +1,45 @@
+441
+
+wo F(x1⁰ . .. p„⁰)=0‚ q2(ae1⁰..p„⁰)=0 ist, mit Hilfe (101· Formeln
+⁴ oe⁶=oe4(oelxl⁰....p,⁰) (i=2...n)‚ z=z(x1x1⁰....p„⁰)‚
+p4=p.(oe1oe1⁰...p,⁰)(i=1,2....n) . (D)
+wo F(oe1⁰...p„⁰)=0)‚ ‹p(oe.⁰...p,⁰)=0 ist,
+
+anf die Variablen x, ΖΡ. transformieren, 8ο bokommen wir n Glei-
+chungen
+
+&,(x1...p„)=0 (i=1, 2...n),
+wo F (221 . . . p.) = Ο ist, die n Integrale der Differentialgleichnng
+9¹=dz—p1doe1—...—p„doe,=0‚
+wo F(xl...x,zp1...p„)=0 ist, sind.
+
+In (101· Tat 8011011 wir zuerst, dass die Form dieser Gleiohungen
+von λ unabhfingig ist, (18 die Form (101· Formel (101· Transformation
+
+ae.=x,(oe1x1⁰....p„⁰) (i=2,....n), z=z(xlae1⁰....p„⁰),
+p4=ps(x1x1⁰....p„⁰) (i=1, 2,....n)‚
+wo ‹p(oe1⁰....p„⁰)=0 ist,
+
+die (1ίο Integrale des Systems (131) sind, von λ unabhangig ist.
+
+Wenn θέε Ο und 8180 λεΟ ist, 80 ist (181111 οςλᾶῃι*(μᾱω)οε- 1
+und 8180 nieht nuendlieh3 wenn dagegen ega-{³¹³ Ο und 8180 λ will-
+
+karlioh, aber nicht Null ist, 80 1ςϋ1111011 wir λ = 1, und 8180
+852d91,— (ςλάἵὼ- 8311 - 311ο
+
+setzen. Ε8 ist klar, dass eyl—ylonieht unendlich und ganz will-
+
+kurlioh fur Θ, (2³1⁰ . . μθ) = Ο, F (2³1⁰ . . . μθ), φ (2:1⁰ . . .p„⁰) = Ο bleibt,
+(18 y1 von ³²1⁰· . . μέ) unabhangig ist. ·
+Das System der n -Ι- 1 Gleichungen
+
+3,(ae1....p„)=0, F(x1....p„)=0
+stellt (188 System der kleinsten Anzahl n ·†· 1 der Integrale der
+Differentialgleiehung
+
+Q=dz—p‚doe1—....—p,doe„=0
+dar. Wenn (11080 Ιηωςτ81310101111118011 in Bezug auf pl . . . p„ auf-
+
+Bunottnm. 2
+

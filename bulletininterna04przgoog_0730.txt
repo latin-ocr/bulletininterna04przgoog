@@ -1,0 +1,50 @@
+737
+
+Oette egalite a lieu pour toute fonction F (x) satisfaisant aux eon-
+ditions (37) qui se reduisent maintenant‚ pour η = 0, aux suivantes
+
+F(oe)=0 pour 0<x<22‘,
+F(ae)=f(ae) pom· η’ἑπὲἓπ-τῖ
+F(oe)=0 pour 2π-η’<.τ<2π,
+
+01⁸1 f (x) est une fonction queloonque‚ bornee et integrable dans
+l'intervalle (0, 271).
+
+Quant ὲ» η’ e'est un nombre positif arbitraire satisfaisant ὲ, une
+seule condition: η’<π.
+
+Il s'ensuit immediatement que l'egalite (52) a toujours lieu, pour
+toute fonction f (x) bornee et integrable dans l’intervalle (0, 221).
+
+On peut dono eerire
+
+α,
+ξ-ῑβηωωωεὲξψξωεψῠκ),
+
+en entendant par ιι,Ιι et b, les expressions suivantes
+²ae 27¹:
+ak: ql-tsf(x)coslcxdae, b.={sf(ae) sin kaedae.
+ο 0 .
+
+Le theoreme suivant est done demontre:
+
+Τὴέοῐὲιπε. Quelle que soit la fonction f(oe), bot-nee
+et integrable dans l'intervalle (0‚2n)‚ on a toujours
+
+2ss ω
+ἐ]ῐτ(ω)αω;ξἾμΣ(α,τ-ς-ῡρ), (53)
+0 ιω(
+comme si l'egalite ⁸
+
+00
+ax) = {52 -1-2' (α, 00⁸ kx 4- bk sin kx),
+
+qui peut n'avoir aucun sens sous les suppositione ge-
+nerales faites par rapport iason), representait le (16-
+veloppement de la fonction f(oe) suivant la serie de
+
+Fourier‚ laquelle serait iei uniformement eonver-
+gente
+
+15. Posons
+

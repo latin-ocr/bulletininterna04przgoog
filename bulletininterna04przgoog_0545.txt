@@ -1,0 +1,48 @@
+556
+
+im J. 1889 Versuche und Berechnungen uber diesen Gegenstand
+angestellt hatte.
+
+Die Untersuohungen S t e f a n s hatten jedoeh auf die weitere
+Durohforsehung dieses Gebietes kei nen entseheidenden Einfl uss ge-
+habt, da dieser Forsoher den U5sungsvorgang unter ausdrucklichem
+Aussohluss der Konvektion studiert und tatsaohlieh bloss einen be-
+sonders gestalteten einfaohen Diffusionsversuch ins Auge gefasst
+hatte. Der eigentliohe Auflbsungsvorgang‚ wo die Verteilung des
+Gelbsten durch mannigfaltig hervorgerufene Konvektl'on stattfinden
+kann, wurde von ihm unberficksiehtigt gelassen.
+
+So geschah es auch, dass die Einfuhrung des fundamentalen‘ hier
+obwaltenden Gesetzes spateren Untersuehungen von d e H e e 11 1)
+und von Noyes und Whitney ²) zufiel.
+
+d e H een hat sich bereits mit ganzer Klarheit dahin ausgespro-
+chen, dass die Auflbsungsgesehwindigkeit‚ d. h. die in
+der Zeiteinheit ausgefflste Stoffmenge dem Unter-
+schiede zwisohen der Sattigungskonzentration und
+der jeweiligen Konzentration der Lbsung proportio-
+n al is t. Es sei v die Auflosungsgesohwindigkeit, B — der Za-
+higkeits koeffizient der Lsssung3 0„ — die Sattigungskonzentration‚
+c. -- die Konzentration der Lbsung‚ so wird von d e H ee n gesetzt:
+
+v=B(C,-c)A‘,
+
+wo A' eine Konstante ist. Ein geringfugiges Versuohsmaterial ergab
+eine leidliohe Ubereinstimmung der Formel mit der Erfahrung.
+Obgleioh v. (00 —c) und folglieh auch B Funktionen der Zeit
+sind, versaumte jedoch de Heen, seinen Satz in der Form einer
+integrierbaren Differentialgleichung darzustellen. Dies wurde von
+N oyes und Whitney2) getan, die zugleioh auf gleichmassige‚
+wenn auch nicht genau kontrollierbare Konvektion, Rucksieht ge-
+nommen haben. In ihrer Versuohsanordnung wurden zylindrische
+Stabe aus dem Versuohsmaterial (Bleiohlorid. Benzoifisaure) geg-ossen,
+und in Flasohen mit 100 (ειη8 VVasser gesullt eingesetzt. Die Fla-
+sehen wurden in Thermostaten eingesenkt und in langsame Dre-
+lnung versetzt. In passenden Zeitintervallen wurden die Flaschen
+entleert und der Inhalt der Losung titrimetriseh bestimmt. Als
+
+⁷¹) Bullotin de l’Acad. Roy. de Belgique 3-me Ser. An.1892 Vol. 23, p. 136.
+²) zoit. phys. Ch. 23, 639 (1897).
+
+ 
+

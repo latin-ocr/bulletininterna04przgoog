@@ -1,0 +1,54 @@
+841
+
+kten einer Dampfdruck·Kurve den ganzen Verlauf derselben zu be-
+rechnen. Man nimmt zu diesem Zwecke die Temperatur einer
+Flussigkeit‚ deren Dampfspannungskurve genau bekannt ist, z. B.
+des Wassers‚ welche dem Dampfdrucke der untersuchten Substanz
+entspricht‚ und dividiert durch sie dic Temperatur der Substan23
+den erhaltenen Quotienten tragt man als Abszisse, (116 Temperatur des
+Wassers als Ordinate auf. Bestimmt man auf solche VVeise mehrere
+Punkte‚ dann uberzeugt man sich, dass sie alle auf einer Geraden
+liegen3 eventuell kann mit Hilfe dieser Geraden (116 nicht ganz ge—
+nau bestimmte Dampfdruckkurve korrigiert und erganzt werden.
+Da die Linie eine Gerade ist, reichen zwei genau bestimmtc Pun-
+kte auS, um alle anderen zu berechnen.
+
+Fur Stickstoff kennen wir in der Nahe des Erstarrungspunktes
+(116 Dampfdrucke‚ da sie ja von Fischer und Alt bestimmt worden
+sind. Ich bediente mich nur des KurvenstuckeS, welches von die-
+sen Verfassern in ihrer zweiten Abhandlung angegeben παι-(16, da
+sie diese Messungen fiir genaucr und richtiger ansehen ¹). Aus die-
+sen Zahlen erhalten wir die folgende Tabelle:
+
+    
+             
+       
+       
+
+TN, abs. [Taq abae! TN22‘raq
+2 ε
+
+  
+
+64540 92614ο : 0·196505
+110 ⁴ 6665 = 62666 9195459
+195 6356 2 92566 9195161
+199 3 6922 i 324·69 0·194709
+95 ι 6266 ἶ 626 65 9191264
+692 ἱ 6249 · 922-39 91966926
+Ι l
+
+Tragt man die Zahlen in der dritten und in der vierten Ru-
+brik als Ordinaten bezw. als Abszissen auf, dann bekommt man
+eine Reihe von Punkten, welche fast genau auf einer Geraden lie-
+gen3 die kleine Abweichung kann leicht graphisch korrigiert werden.
+
+Nun bestimmt man mittels der Tabelle der Dampfspannungen
+des WasserS, welche Temperaturen des Wassers den Drucken
+902 111111, bezw. 935 mm entsprechen. Man erhalt:
+
+1) L. c. S. 213 und 214.
+¹) Nach Regnanlt's Messungen berechnet von Broch. Siehe Landolt und Βὸτηεῐθίη,
+
+Phys. Chem. Tabellen‚ S. 53.
+

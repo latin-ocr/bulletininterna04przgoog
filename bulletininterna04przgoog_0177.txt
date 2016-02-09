@@ -1,0 +1,50 @@
+174
+
+Il est vrai que nous aussi⁷ nous avons neglige-un facteur: l’effet
+de l'inertie du gaz, qui diminuera cette difference et produira des
+oscillations qui tendront 8 s'evanouir. Par consequent, notre 881881
+ne serait exact que pour un gaz tres rarefie. Oependant, cet exemple
+prouve qu'une erreur —— tres petite peut-&tre — est inevitable si l'on
+emploie 18 formule adiabatique 8 l'evaluation des mesures de 18
+81181881 specifique des gaz faites d'apres 18 methode de Clement-
+D esormes. Leur effet sera une augmentation apparente du coef-
+ficient k, le contraire de l'effet de 18 conductibilite. D’ailleurS, il
+dependra de 18 1118111818 dont se produit 18 compression3 si le 18-
+servoir avait, par exemple‚ une forme spherique, 8 parois dilatables,
+18 diminution des longueurs serait 18 meme (18118 toutes les direc-
+tions:
+
+&u &v &w
+333: D} = ἐξ -- const.
+et, par consequent, pn: pm, == p„ = p, c'est-h-dire que 18 viscosite
+n'aurait aucun d'effet‚ ni mecanique, ni thermique (puisque Φ = Ο).
+
+ξ 26. Le systeme des equations aerodynamiques est si compli-
+que qu'on ne peut esperer (18 18 18808ᾶ18 directement que dans
+des exemples d'une simplicite exceptionnelle‚ tels que ceux que
+nous venons (18 citer. On peut aussi employer‚ outre 188 methodes
+des ξ 7 — ξ 13, 18 methode des approximations successives. En
+voici des 888 particuliers: Si le coefficient κ (18 conductibilite ther-
+mique 81811 infini‚ 011 aurait un mouvement rigoureusement isother-
+mique. La meme conclusion s'applique approximativement 8 tous
+les 888 ou 18 conductibilite joue un 1618 preponderant, comme les
+
+mouvements „calmes“ (18118 188 conduits etroits3 8 11188818 que -1-
+
+. κ
+differe de 8810, 18 distribution de 81181881· et de mouvement s'ecar-
+
+te de l'etat limite‚ de sorte qu'on pourra developper toutes les
+variables en series potentielles (18 18 forme
+
+²⁶³4- ι
+
+αεαο-ι-ἶὲ-μΞ-ξῆι-κδ ..
+
+(49) θ θ
+θεῆψέψῄψω
+
+En decomposant les equations (10, 11,12) apres avoir substitue ces
+
+expressionS‚ d’apres les degres de (ἐ), on 8818 une serie d'equa-
+

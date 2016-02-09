@@ -1,0 +1,47 @@
+6
+
+ubrigen Zcilen und Kolonnen der gegebenen Determinante gebildct
+sind sowie die Summen der ersten Hauptunterdeterminanten jeder
+dieser Hauptunterdeterminante 971-1--2’ω Grades gleich Null sind, so
+sind alle Unterdeterminanten m†1'⁶⁸ Grades der gegebenen Deter-
+minante gleich Null. In der Tat folgt aus dem Satze IL dass alle
+Unterdeterminanten vat-{4¹⁶⁸ Grades der erwahnten Hauptunterdeter-
+minanten m-}-2'‘’' Grades gleich Null sind3 es sind also alle Unter·
+determinanten m—{—1“'¹ Grades, welche durch Hinzufugung zur Matrix
+der nicht verschwindenden Hauptunterdeterminante ΜΨ· Grades der
+[Clemente von den ubrigen Zeilen und Kolonnen der gegebenen
+Determinante gebildet sind. gleich Null. Es folgt daraus nach dem
+bekannten Satze von L. Kron 6 cker, dass alle Unterdeterminanten
+vra—{4¹⁶³ Grades der gegebenen Determinante gleich Null sind.
+
+Fur den Fall der schiefen symmetrischen Determinante geht
+dieser Satz in den Satz von G. Frobenius fiber: wenn alle
+Hauptunterdeterminanten 2n-{—2“” Grradess7 welche durch Hinzuffigung
+zur Matrix der nicht verschwindenden Hauptunterdeterminante 272‘0'
+Grades der Elemente von je zweien aus den fibrigen Zeilen und
+Kolonnen der schiefen symmetrischen Determinante gebildet sind,
+gleich Null sind. so sind alle Unterdeterminanten 212 -†— 1‘⁶¹⁴ Grades
+
+gleich Null (l. c.).
+
+Satz VI.
+
+Wenn alle Hauptunterdetcrminanten m—}-2“” Grades der sym—
+metrischen oder der schiefen symmetrischen Determinanto sowie
+die Summen der ersten Hauptunterdeterminanten m † 1, m »- 1.. ..‘'''
+Grades jeder Hauptunterdeterminante m -4— 2, m3 . . . .'‘'· Grades gleich
+Null sind, so sind alle Unterdeterminanten m—}—1'‘’' Grades gleich
+Null. Wenn nicht alle Hauptunterdeterminanten m‘ffl’ Grades gleich
+Null sind, so ist dieser Satz nach dem Satze V bewiesen. VVenn
+aber alle Hauptunterdeterminanten mmGrades gleich Null sind. nicht
+aber alle m——2“” GradOS, so sind nach dem Satze V alle Unterdeter-
+minanten m —1“¹· und also m—†—1“''Grades 8161611 N ull u. S. w,
+
+Es geht dieser Satz fur den Fall der schiefen symmetrisohen,
+Determinante in den Satz von G. Frobenius uber: wenn alle
+Hauptunterdeterminanten 212†2'‘²· Grades der schiefen syn'nnetrischen
+Doterminante gleich Null sind, so sind alle Unterdetcrminanten
+271—ff-1‘0' Grades gleich Null (l. 6.).
+
+Wir sehen aus diesen Samen, dass die Bedingung, dass namlich
+

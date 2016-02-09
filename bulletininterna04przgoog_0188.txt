@@ -1,0 +1,44 @@
+{ej
+
+185
+
+vement tangentiel, il faudrait y ajouter encore, 'pour etre exact, un
+troisieme terme V, pour rendre compte de la modification des cou-
+ches de passage qui se produit par ce mouvement. Nous nous bor-
+nerons cependant a l’etude des mouvements „lents“ οὺ l'on peut
+negliger cette reaction du phenomene secondaire sur le phenomene
+primaire, en comparaison avec φ et Φ. Dans ce cas, on peut ne-
+gliger aussi l’inertie du liquide, et les equations de l'Hydrodyna-
+mique, eu egard aux forces mecaniques — ε V U. seront:
+
+ἐξ = α -ψ 2 gg
+ἓξ--μΔῗυ--εζὲ (1)
+
+ἐξ == uA² w —- ε {g
+Les facteurs ε-ΞΞ etc. feront naitre le mouvement du liquide, tandis
+que les facteurs ε ἐξ ne servirent qu’a produire une pression uni-
+
+forme dans chaque couche individuelle. Pour eliminer cette partie
+des forces, qui ne nous interesse pas, introduisons une grandeur
+definie [en designant la distance normale par ζ] par
+
+PssP-S{2{{·dC=P-·5a({{)²!} <2³
+
+Par consequent, on aura:
+
+ες ες ἢ ἐς (3)
+et d’autre part, en supposant ξ et η diriges dans les directions tan-
+gentes, p. ex. des lignes de courbure:
+
+&P— &p 1 Θφ 3²oe
+
+ἑξ-εξ 422 ἑζ- §555³
+
+puisque ⁴partout {g est egal a zer0, ὴ cause de l'uniformite de la
+conche, ce resultat se simplifie et devient:
+ΘΡ- &p · 31²— Q ’
+
+et de meme -
+
+55-55' &vy—922· (4)
+

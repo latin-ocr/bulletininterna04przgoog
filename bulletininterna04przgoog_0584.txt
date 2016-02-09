@@ -1,0 +1,47 @@
+595
+
+et 66116 d'un solide isotrope et parfaitement 6166111166 ¹). J 'appellerai
+66116 11160116 16 11160116 (16 16 relaxation. Dans 16 mode d'exposi-
+tion (166 j'ai adopte, l'etat de 16661011 1616116616 d'un fluide visqueux
+en mouvement devrait pouvoir 6116 1691666616, a chaque instant,
+par 66161 d'un solide 6166111166 61 1611110116 lequel aurait eprouve 666
+deformation eonvenable. Or 6616 peut n’etre pas possible: en effet
+les six 6016110666166 (16 16 deformation d'un milieu deformable sont
+11666 entre elles par 66 6611616 systeme d'equations differentiellee ²)
+et il en 1666116 (166 166 six fonctions bien 6066666 11616616616116661
+1’6161 (16 1666106 qui regne dans 66 solide 6166111166 61 isotrope (161
+6 66111 666 deformation ne peuvent pas 6116 (1066666 6111111611616661
+6 priori.
+
+Abstraetion faite (16 16 611606616666 precedente, 16 11160116 que
+j'ai developpee 11666 16 1661110116 (166 je viens de rappeler implique
+16 restrictiori suivante: l’espaee etant rapporte a un systeme (16
+600111066666 reetangulaires (x, y, z), si l'on designe par u, v, w les
+6016110666166 6616116166 aux axes de la vitesse de la particule du
+fluide qui, 6 l'epoque t, se trouve 66 point (x, y, z), les derivees
+partielles (16 premier ordre (166 fonctions u, v, w par rapport aux
+variables x, y, z doivent 6116 tres petiteS. Cela tient aux termes que
+l’on 6 negliges 611 616111166661 166 6116611066 (26) p. 395 du 6161110116 6116
+plus haut. 6116611066 66116 661661616 approximatis (166(1661166 je me 6616
+11’61116616 611616 aveo 1661616666. Je me propose maintenant de presenter
+16 11160116 de la relaxation de faeon 6 evitet· 16 difficulte signalee plus
+haut 66 m’affranehissant 66 06116 dela 1661116ῑί06 relative aux (16-
+rivees partielles (166 fonctions u, v, w J’appliquerai 6666116, a la fin
+(16 6161110116, 166 nouvelles 6116611066 que J’aurai etablies 66 probleme
+dont je me 6616 oeeupe deja 11666 1606 travail „Sur un probleme
+d'hydrodynamique 116 a 66 666 de double refraction 6661116616116
+dane les liquides et sur les consideratione 111601111666 de M. Natan-
+
+606 relatives 6 66 1111166οω6663).
+
+ι) Μ. Nasamon, 611 6’166ρὶ1661 (1’11116 ideo de Poieson repr-ise par Maxwell‚
+6 tonte, avant moi. de developper une 11160116 analogue, 16616 cette tentative doit
+6116 60661116166 comme 1661111666. Voir 11 66 sujet mon 1661110116 cite plus haut ainsi
+(166 ma. Note π116166111666 sur 166 travaux de M. Natanson relatifs 11 la 11160116 de
+16 1166116116“ (Β61161111 de l'Aeademie 116 (31660νί6, Fevrier 1903).
+
+') Voir E et F. 00666161 „Sur 16 11160116 de 1’6166116116“. Annales de 16 Fa·
+611116 (166 86166666 (16 Το610666 Τ. Χ, 611666 1893, p. 1, 36.
+
+⁸) Bulletin (16 ΡΑοειᾶόηιὶο de cracovia, Juin 1903.
+

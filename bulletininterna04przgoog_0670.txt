@@ -1,0 +1,42 @@
+677
+
+h &BG ὃ F m 'XF m
+§f 4- P« ᾗ 7 ······ ’ἐξ ‘ff‘ P« -z-
+EF} :³³AE
+pq÷¹ ³ ...... σῆρα-ΡΙ
+ἒξ 91⁴„
+&pm , ...... &pm ⁷
+
+wie es sein soll, da
+*m 2(11’,...F,„) ᾖ
+9(x¹··0·xqpff10-eep-)s-
+
+ist (ss 2, 3). Wir kssnnen den folgenden allgemeinen Satz ΙΙΙ aus-
+sprechen: Man kann den Differentialausdruok
+
+ko
+
+ 
+
+ 
+
+Ω’ == dz— p1dx1—...—p„dx„‚
+wo die Variablen a:i z p, durch m Relationen
+b}(ae,...ae„zp,...p„)=0‚ ' (1¹)
+
+die ein vollstandiges System bilden, verbunden sind, immor auf die
+neuen Variablen y„ .. llam-m so transformieren‚ dass m der neuen
+Variablen z. B. y„ .. yn, hi'mhstens im gemeinschaftliohen Faktor μ
+der Koeffizienten euthalten sein werden. Die notwendige und hin-
+reiehende Bedingung ist² dass die Formeln der Transformation zu-
+sammen mit μ den Differentialgleichungen der Matrix (B) bei den
+konstanten VVerten der ym÷ ..... y„4„,„ und den Gleiohungen (I‘)
+genuge leisten.
+
+3. Wir gehen jetzt zur Bestimmung der Formeln der Pfaffsohen
+Transforination tiber.
+
+Wir setzen von jetzt ab voram, dass das gegebene System der
+Differentialgleiehungen in Involution ist. Die Differentialgleiohun-
+gen der Matrix (Bl)
+

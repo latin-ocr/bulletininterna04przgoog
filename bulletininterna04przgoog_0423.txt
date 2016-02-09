@@ -1,0 +1,51 @@
+438
+
+integrieren und dann die Anfangswerte (τέ) 2⁰ 101⁰ der Veranderliehen
+(εἶαρ, durch zwei Relationen verbinden‚ deren eine
+
+F(oe1..x„zp1 ..p„)=F(xI⁰....p„⁰)=O
+
+gegeben ist und eines der Integrale des Systems(B1)darstellt, und
+die andere
+
+‹p(x1⁰...p„⁰)=0
+
+nur die Bedingung erfullen soll, dass sie dagegen kein Integral
+dieses Systems ist. Die neuen Veranderliehen sind y1 und 2n—1
+
+der Gressen ³31⁰ . . . . μθ.
+Es ist klar, da (ξιξ-μθ ist, dass das System (a) auch in der
+Form
+xl = τε, (yl :1:1⁰ . . . .p„⁰)
+τε. =x4(x¹x1⁰....p„⁰) (i=2‚ 3.. . n)
+z = z (x1x10....p„⁰)
+
+Ρι =p5(ae1x1⁰....p„⁰) (i=.l, 2...n)
+
+dargestellt werden kann, wo die 2n letzte Gleiehungen das System
+der 212 Hauptintegrale des Systems (Bl) in Bezug auf περιέ) bilden.
+
+Es gibt unendlieh viele Formeln der Pfaffsehen Transforma-
+tion, da die Relation
+
+‹p(oe1⁰.....p„⁰)=0
+
+unendlieh viele Formen annehmen kann. Es seien die Formeln
+zweier seleher Transformationen
+
+1)ae1=x1(y1x1⁰....p„⁰)
+ω,εω,(ω1ω10....ρ,,0) (i=2....n)
+z =z (x1x10....p„⁰)
+P1=P‹(·‘151251⁰·...p„⁰) (i=1‚2....n)‚
+
+wo F(:c1...p„)=F(x1⁰...p„⁰)=O und φ (x10...p„⁰)=ist3
+
+2) und εει = xl (x1 11:1⁰⁰. . . . p„⁰⁰)
+x5=x4(x1x,⁰⁰....p„⁰⁰) (i=2....n)
+z =z (x1x100....p„⁰⁰)
+p1=p¹(ae‚oe1⁰⁰....p„⁰⁰) (i=1,2...n)‚
+
+wo F(x1...x„zp1...p„)= F (³:1⁰⁰ . . .p„0⁰) =0 und Φ (2:1⁰⁰. . .p„⁰⁰) =0 ist.
+Die neuen Veranderliehen sind in diesen Systemen 222 unab—
+hangige Grbssen von den y1 :1:1⁰ . . . p„⁰‚ und ιι :1:1⁰⁰ . . . p„⁰⁰
+

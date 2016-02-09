@@ -1,0 +1,54 @@
+464
+
+wo φ willkurlioh gewahlt ist, transformieren‚ der Differentialaus·
+drnok
+
+Q'=dz—p1doe1...—p„doe.,
+
+wo F(oe1 . . . oe„zp1 . . . μ) = Ο ist, eine der neuen Veranderlichen,
+namlieh 311, nur im gemeinschaffliohen Faktor Al enthalten kann.
+Also ist diese Transformation die Pfaffsohe Transformation. Da wir
+
+Ξ-ΙΣ :kt Ο νοταυεεοικοιι, ⁸0 anthalt A¹ dio Veranderliche yl und also
+
+Al ‚ U‚‚. . . U„ Cu. . . C„ sind unabhangig. Um das singulare Inte·
+gral zu erhalten, mussan wir
+ΑΙ = Ο
+
+setzen. Es folgen aus den Formeln der Transformation noch η- 1
+Gleiohungen
+
+A2=0...A„=0, da U,...U‚. von A1 unabhangig sind.
+
+Wir seben alm, dass das singulare Integral der gegebenen Dif-
+ferentialgleichung
+
+F(m1...oe„zp1...p„)=0
+die Gleiohungen
+A1=O...A„=O
+
+erfullt. Die Gleiohungen Α, = Ο, (i = 1, 2 . . . n), Ε’(ευ1 . . .p„) = Ο
+stellen das singulare Integral dar, insofern es mit Hilfe der Inte-
+gration der Differentialgleichung dcl -{- U2 (102 -Ι- . . . -Ι- U„ de, = Ο
+nicht erhalten werden kann.
+
+Man kann diese Gleiohungen in auderet Form daretellen:
+
+Es folgt numlioh aus den Gleichungen (ὁ) das System der Glei-
+chungen ·
+
+z=f(oeffl...oe„)‚ oe.=f.(oe,4 ...oe,.) (i=1‚ 2...k)‚ (k>0).
+Wir kbnnen nach dem Satze ξ 1, Nr. 2 das System (d) in der
+
+Form
+
+*H
+
+H=f—s1p1—.·-f‚p„ <12‘-—---‘'‘3‚1-3¹¹ (i=1‚ 2...k)‚ (ε)
+ΡμΗ-τ-ἕέ-Η- (j=1‚ 2...n-k)
+
+darstellen. Dieses S'ystem ist das System der Integralgleichnngen
+der Differentialgleichung .
+
+ 
+

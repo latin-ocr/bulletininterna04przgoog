@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bulletininterna04przgoog_0008.png"; bbox 0 0 3842 5925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 478 1250 561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 632 478 1250 561">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 478 1250 561; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 632 478 784 551; x_wconf 83' lang='grc' dir='ltr'><strong>ΜΑΥ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 903 485 1016 558; x_wconf 86' lang='grc'><strong>12</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1086 489 1250 561; x_wconf 79' lang='grc'><strong>1904</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 566 2074 2804 2381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 566 2074 2804 2381">
+     <span class='ocr_line' id='line_1_2' title="bbox 711 2074 2373 2178; baseline -0.001 -25"><span class='ocrx_word' id='word_1_4' title='bbox 711 2173 718 2178; x_wconf 44' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1001 2074 1486 2156; x_wconf 77' lang='lat' dir='ltr'>BULLETIN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1547 2074 2373 2160; x_wconf 74' lang='lat' dir='ltr'>INTERNATIONAL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 566 2268 2804 2381; baseline 0.001 -3"><span class='ocrx_word' id='word_1_7' title='bbox 566 2288 741 2378; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 828 2268 1684 2381; x_wconf 74' lang='lat' dir='ltr'><strong>L’ACADEMIE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1773 2286 2032 2379; x_wconf 75' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2120 2286 2804 2381; x_wconf 79' lang='lat' dir='ltr'>SCIENCES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1360 2519 1994 2591">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1360 2519 1994 2591">
+     <span class='ocr_line' id='line_1_4' title="bbox 1360 2519 1994 2591; baseline -0.002 -5"><span class='ocrx_word' id='word_1_11' title='bbox 1360 2520 1480 2586; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1529 2519 1994 2591; x_wconf 82' lang='lat' dir='ltr'><strong>CRACOVIE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 618 2989 2741 3068">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 618 2989 2741 3068">
+     <span class='ocr_line' id='line_1_5' title="bbox 618 2989 2741 3068; baseline -0.001 -12"><span class='ocrx_word' id='word_1_13' title='bbox 618 3000 880 3057; x_wconf 84' lang='lat' dir='ltr'>CLASSE</span> <span class='ocrx_word' id='word_1_14' title='bbox 928 2990 1062 3056; x_wconf 80' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1101 3001 1433 3059; x_wconf 88' lang='lat' dir='ltr'>SCIENCES</span> <span class='ocrx_word' id='word_1_16' title='bbox 1470 2989 2095 3068; x_wconf 73' lang='lat' dir='ltr'><strong>MATHEMATIQUES</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2133 3001 2218 3056; x_wconf 91' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 2265 3000 2741 3061; x_wconf 82' lang='lat' dir='ltr'><strong>NATURELLES.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

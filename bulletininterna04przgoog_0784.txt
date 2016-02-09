@@ -1,0 +1,42 @@
+787
+
+11 n’y a rien de change dans ces conclusione si l’on suppose
+que le rapport TJT de M. Zaremba tende vers une limite finie
+et differente de zero lorsque Τ tend vers zero. Soit 3κ cette
+limite3 l'equation (13) dans ce 688. devra etre templacee par la
+suivante
+
+20 Σ (2 -κ-(ξξί--ζ-ΞΒΞ) T. (14)
+
+Oette valeur du coefficient λ.) peut-elle verifier 18 relation de Sto-
+kes‘? Supposons que la somme
+
+--14-3„ †}u=f1 <¹5³
+
+reste finie lorsque Τ tend vers zer03 la limite vers laquelle tend
+l'expression (14) precedente sera alors egale a la limite vers 18-
+quelle tend le produit -ξμΤ, Calculons la limite vers laquelle
+tend² dans ces conditione, 16 rapport de Poisson. Nous aurons
+
+ 
+
+G=Lim (ᾗῇ-μδ) :Lim ((-1-43n53f1-—-33)=-1; (16)
+011 retombe ainsi sur les resultats precedente
+
+Dans les Memoires cites dans l’introduction, je suppose que,
+pour les fluides de la Nature⁷ 16 temps de relaxation T, sans etre
+rigoureusement nul. est de tres faible duree3 je suppose aussi que
+les constantes lc et n (qui caracterisent les proprietes elastiques non
+directement observables du fluide) sont tres grandeS‚ 88118 cependant
+etl-e infinies. On voit que, au point de vue ou je me suis place,
+les equations (11) de ce paragraphe ont une reelle importance.
+
+Pour terminer, je prierai le lecteur de se reportet 8 111011 Μ6-
+moire „Sur la propagation d'un petit mouvement dans un fluide
+„visqueux“‚ presente a l'Academie dans 18 8681166 (111 7 Janvier 1902
+(Β1111. Int. pour 1902, p. 19). Il verra que le principe d'ou Μ
+Zaremba est parti, dans son Memoire du 8. Juin 1903, page 398,
+pour etablir que la theorie classique doit &tre regardee comme un
+cas-limite de la Theorie de la Relaxation, est 61101166 (16 18 189011
+la plus explicite, a la page 28 du Memoire que je viens de citer.
+

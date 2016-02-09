@@ -1,0 +1,43 @@
+394
+
+(24)
+
+A l'epoque t, les componentes de 16 deformation elastique du fluide
+ont les valeurs (6). De l'epoque t 6 1’6Ρο(166 t-{— dt, le fluide eprouve
+une deformation geometrique dont les composantes ont les valeurs
+(23). Enfin de l'epoque t ὲ. 1’6ρο(1116 1-1-άί, 16 fluide se compone,
+par hypothese, eomme se comporterait 16 corps fietis parfaitement
+elastique que nous avons 6 consideret en vertu (16 l'hypothese fon-
+(16111661616 relative 6 16 nature des phenomenes dus 6 16 1716666116.
+n 1666116 (16 1661 6616 et de 66 qui 6 616 rappele 6 16 fin du Νι. 2
+66 sujet de la composition de deux deformatione successives que
+les composantes (16 16 deformation elastique du fluide 31 l'epoque
+
+t÷ dt auraient, (1666 l'hypotbese οὺ nous nous sommes places, 6 p p r o-
+xi m a ti v 6 m 6 6 1 166 valeurs suivantesz
+
+(25) 1 {Est—baldi, s,*-}—a‚dt, ⁶3³4-th
+
+yff-f-th, y2*-{-c‚dt‚ y„*-{—c„dt.
+
+J’ai dit que les expressions precedentes representem (166 valeurs
+approchees des 6161116616 (166 6666 voulions ealeuler. En effet les
+formales (25) 66 (16(16166111 (166 formules exactes, on 16 verifierait
+aise'ment, en negligeant 166 produits des derivees qui figurent dans
+le second membre des equations (7) par les quantites (23). Par eon-
+sequent les differenees entre les valeurs (25) 61 166 velem-s exactos
+des 6161116616 demandes sont (166 infiniment. petits de l'ordre 1116166
+de dt. D'ailleurs les eoeffieients de dt (1666 666 differenees sel-ont
+petits par rapport aux eoeffioients
+
+αι] ⁰27 aa) ⁰17 ⁰27 c3
+de cette differentielle dans les formules· (25) 61 6’661 pour 6616 (166
+les expressions (25) penvent etre regardees eomme les valeurs
+
+approchees des quantites demandeeS. Il 1666116 (16 tout 66 qui pre—
+cede que l'on a approximativement:
+
+d,s‘*=a.dt et d1y4*=csdt‚ (ἐι-1, 2, 3)
+
+ 
+

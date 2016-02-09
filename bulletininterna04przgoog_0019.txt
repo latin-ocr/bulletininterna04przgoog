@@ -1,0 +1,48 @@
+2
+
+Es sei fet-ner Ama die zweito Untzerdeterminante7 welche die i, J*
+Zeilen und k, φ’ Kolonnen der gegebenen Determinante Δ nicht
+enthfilt.
+
+Satz 1.
+Wenn fiir dio Determinante A
+(2) Σὲ Ast: Ο
+¹ .
+ist, so ist
+(3) ὲΔὶ-νΑΜΓ = {Ag <i=1‚2,..n).
+ι ι
+
+Es ist hinreichend, diesen Satz nur fiir den Fall i=1 zu be-
+weisen‚ d. h. zu bewe-isen, (1388, wenn
+
+{wazo
+>ff Ξ μ
+2 ,
+
+da man die ἐκ Zeile und ἕ· Kolonne immer an die stelle der ersten
+Zeila und ersten Kolonne setzen kann, ohne die Bedingungen des
+Satzes zu verandern.
+
+Wir kssnnen die Bedingung
+
+{²1 21320
+
+durch Entwickelung jeder Unterdeterminante Am... ΑΜ, nach den
+Elementen der ersten Kolonne in der Form
+
+(2¹) . (1,,ψῖ a„ R„ = o
+
+darstellen. Man hat offenbar
+
+ΒΗ = ’Σ
+
+Wir erhalten durch Multiplikation
+
+ist, dann ist
+
+- au Ray “““ αιειΕιις · · · ““ aza Ru
+
+—AR“= (ιω, (122, . . . (ιω,
+
+ant? αηὲῗ · · · ann
+

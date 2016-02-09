@@ -1,0 +1,49 @@
+696
+
+θα (:121⁰..pl¹'C¹ .. 0n÷1—m)=0‚ E(x1⁰..p„⁰)=:O, m‘(xl⁰..p„⁰)=0‚
+(a=1,2...n-{-1-m‚ i=1.2...m)‚
+
+womit unsere Behauptung bewiesen ist. Wenn wir umgekehrt ein
+System (161· n -Ι- 1 -{-m Integrale der Differentialgleiohung Ωο--Ο
+mit den oben erwahnten Eigensohaften bestimmt 11811611, 60 611181-
+ten wir (181·8116 08611 dem Satze V das vollstandige Integral der
+partiellen Differentialgloiohungen (1). Es sei dieses System der
+η -1- 1 -1- m Integrale (161· Differentialgleichung 90 = 0:
+
+Θα (⁵⁶1⁰ . ·])„⁰ 01.. Cn÷1-m)=0‚ E(x1⁰ . .p„⁰) = Ο, φί (2:1⁰ . .p„⁰) :0
+(a=1,2..n-{-1 —m, i=1,2..m). (f)
+
+Wir wissen‚ dass wir mit Hilfe der Gleichungen φί = Ο
+(i= 1, 2 . . . m) die ersten n -4- 1 -- m Gleichungen 60 umformen
+Ιςό111160, (1866 616 η -†-1 --- m Integrale der Differentialgleiehungen
+der Matrix (131) sein werden. Setzen wir nun vorans, dass (186
+sehon ausgefuhrt ist. Wenn wir also die Grossen oe10z0p⁶⁰ 8116 den
+Gleiohungen (f) und aus dem Systeme der 2η-Ι- 1 —m Hauptin-
+tegrale (161· Differentialgleiohungen der Matrix (131) eliminieren‚ so
+erhalten wir offenbar die Gleiohungen
+
+Θοιᾴι)1 ...p„C,...0„‚--1-„.)=0‚ E(ae,...p„)=0
+(a=1‚2...n—†-1—-m‚ i=1,2...m)‚
+
+(116 das vollstandige gemeinsame Integral der partiellen Differen-
+tialgleiohungen (I) bilden.
+
+Wir haben 8160 (1611 Satz VII.
+
+Um das gemeinsame vollstandige Integral der partiellen Diffe-
+rentialgleiohungen (1) zu erhalten‚ ist es hinreiohend 60161166 Sy·
+stem der n ·†‘ 1 —†—m Integrale der Differentialgleiohungen 90=0:
+
+62(ae1⁰..p„⁰C'1..C„÷1-„.)=0‚ E(oe1⁰..p„⁰)=O, wcsx1⁰···P1⁰)-—-O
+(a=1‚2...n-{—1--m‚ i=1,2...m)‚
+
+wo bei (161· Bezeichnung (161· vorigen Satze nur n†1 —m ersten
+Gleiohungen n-†— 1 ——m willkurlichen Konstanten‚ in Bezug auf
+welche sie unabhangig 611111, 6011181160, zu bestimmen und damit
+nach dem Satze V zu verfahren. Alle vollstandigen Integrale kon-
+11611 10 dieser Weise erhalten werden.
+
+Wenn (186 vollstandige Integral 66 1111 gewsshnlioben 81006 66111
+6011, 60 6011 (186 System (161· n-‡—1 -l—aen Integrale der Differential-
+gleiohung 90=0 nieht nur (160 Bedingungen (166 881366 VII,
+

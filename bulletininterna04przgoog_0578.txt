@@ -1,0 +1,45 @@
+589
+
+der abrigen Losung vermindert wil-d, eine Ruderung von ε und
+fblglieh eine Abweiohung von der logarithmisoben Gleiohung ein-—
+treton warde. Dies ist jedooh nieht der Fan. Das logarithmisehe
+Gesetz bleibt in den von uns untersuehten Fallen riohtig bis zu
+Slssttigungen9 die ca. 90-95010 der Sattigungskonzentration betragen,
+(vel-gl. Tabelle IV, 4 und auch Zeit. anot-g. Oh. 35, 36). Das strange
+Obwalten der logarithmisehen Gleiehung bis zu den Sattigungskon·
+zentrationen zeigt an, dass auch bei dieser Konzentration der Le,-
+sungsvorgang durch Diffusion in der unverander'ten adharierenden
+Diffusionsschieht vermittelt wird. ’
+
+Ἰ. Bestimmung von Diffusionskoeffizienten durch
+Auflosungsgesehwindigkeitsmessungen. In unserer ers-
+ten Mitteilung haben wir sehon darauf hingewiesen‚ dass auf Grund
+der Versuche uber Auflosungsgesehwindigkeit sich eine Methode
+zur Ermittelung von Diffusionskoeffizienten ausarbeiten lassen wird.
+Aus der Proportionalitat von A und lc folgt ja unmittelbar‚ dass-—
+gleiehe Konvektion und gleiehe Beschaffenheit der zu lbsenden
+Oberflaohen vorausgesetzt — sich die Diffusionskoeffizienten zweier
+Stoffe v'vie ihre Auflosungsgesohwindigkeitskonstanten verhalten. Also:
+
+k, 241
+k2 Ξ Ἐὲ
+1⁶1 = '⁶²22
+
+Diese Gleiehung setzt uns in den Stand‚ Diffusionskoeffizienten nach
+den Aufl6sungskonstanten zu bereobnen, wenn nur fiir einen Stoff
+der Diffusionskoeffizient lq, bereits bekannt ist.
+
+Die Schwierigkeit der Methode liegt ja erstens in der Feststellung,
+was als „gleiche Oberflachenbesohaffenheit“ anzunehmen ist. wie
+frssher erwabnt, haben Alabaster und Matienglas eine. verschiedene
+Auflijsungsgeschwindigkeit3 dasselbe wurde von Erieh Brnnner
+auch z. B. fur Benzoasaure — ob sie gesehmolzen, ist ob mit Klebemit-
+teln in Platten ausgeschmiert — festgestellt. In dieser Unsioherhein
+was die Oberflaohenbesohaffenbeit anbetrifft, liegt wohl das grbsste
+zu uberhvindende Ubel der Methode. Niohtsdestoweniger ki'mnen
+sehon aus unseren ersten Messungen1) mit gewisser Sicherheit Dif-
+fusionskoeffizienten geschatzt werden. Wir haben z. B. nach den·
+
+¹) Zeit. phys. Ch. 35, 283.
+3*
+

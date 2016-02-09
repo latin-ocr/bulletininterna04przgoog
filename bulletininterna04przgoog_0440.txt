@@ -1,0 +1,59 @@
+455
+
+w(ae1...ae„z)=o
+
+fuhren, vorausgesetzt, dass diese letzte von den eharakteristisehen
+Streifen nieht erzeugt 331.
+
+9. Μ33 sieht leieht aus der Darstellung der Theorie, dass 313 313
+willkurliches Element euthalt, und zwar die Wahl der Relation
+‹p(x1⁰. . . μθ) =O fast willkurlieh ist. Wir haben auch bewiewn,
+dass die Besehrankung der Form dieser Funktion keinen Einfluss
+auf die Allgemeinheit der Ergebnisse ausflbt, da die Niehtsingula-
+ritat der Integrale bei allen Pfaffsehen Transformationen invariant
+bleibt. Wir 1ςὸ3333 daher dieser Gleiohung eine megliohst einfache
+Form geben, wir 1ζὸ3333 z. B. voraussetzen, dass φ (310 . . . p„⁰) nur
+eine der Veranderliehen euthalt unter der selbstverstiindliehen Β3-
+dingung, dass q>= Ο kein Integra-l (133 Systems (Bl) ist. Da wir
+
+&F
+
+vorausgesetzt haben, dass 3—pl ²¹: Ο ist, 3ο 1ζὸ3333 wir φ (⁵⁶1⁰ . .p„⁰) =
+
+‹p(x1⁰) semen, oder (1333 x1⁰= num. konst. z. B. h ist.
+
+Wir erhalten bei dieser Voraussetzung die Methode von Cauchy
+in ihrer allgemeinsten Form.
+
+Der Satz II druekt sich 3ο aus:
+
+Um 3113 niehtsingulziren Integrale der Differentialgleichung
+F= Ο zu erhalten‚ soll man die Differentialgleiehnng
+
+dzo —p10dcc10 — . . . —p„⁰dae„0 = Ο
+durch η ·†· 2 Integrale
+6¹(oe10...p„0)=0, F(oe1⁰...p„⁰)=0‚ x1⁰=h, (a)
+
+integrieren und (1333 (113 Grssssen
+
+x„⁰...x„⁰z⁰p1⁰...p„⁰
+333 (133 Gleiehungen
+’ 3,(1ι,ω,ο...ρ,ο)--ο, Ρ(ιιωῖο...ρ,ο).-;ο
+π,τ-ω,(ωι]ι;ε,0..ῃ,θ), z=z(x1h:c2⁰..p„⁰)‚ p5=p¹(x1hae,0..p„⁰)
+(i=2...n) (2'=1,2...n)
+
+eliminieren, wo die 2η letzten Gleiehungen 222 Hauptintegrale (133
+Systems (Bl)
+
+ 
+
+ 
+
+ 
+
+dxl - - 01oe„ - az — dp, — - dp.
+§F-··-ff- eF--eff &F ----- {E &F
+ζῇ ᾗ pr—p‘ {gl-PR *52- &esf-Pu&
+
+in Bezug anf xl =h sind.
+

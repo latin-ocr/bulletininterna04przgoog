@@ -1,0 +1,51 @@
+248
+
+auch 11111 „0 ν, endlieh sein kann. Dazu ist augenseheinlieh nut-
+wendig (aber nieht hinreiehend), (1888
+
+(A) lim„ aux) =a0 -Ι- alx-{— -Ι- ‹ze—,xm ÷O.m‘† 0.oe‘÷¹ -1- .....
+
+wird‚ und diese Bedingung lassi: sich ohne Muhe direkt aus der
+
+gegebenen Summe S entnehmen.
+Um nun auch die hinreiehenden Bedingungen fur die Endliohkeit
+
+aller ν, zu bestimmen, wird werst die Summe ·S=‚5‡⁵.13,(x)von der
+
+Eigensehaft untersueht‚ dass 818 die Bedingung
+(8) 11111...» ⁵B.(ae)=0÷0x-1-0oe2÷....
+
+eriullt und dass ihre formelle Entwiekelung ΣΑμεισῑι lauter unbe-
+dingt konvergierende Koeffizienten Αμ- mit endliehem oder di-
+vergierendem lim A„ — besitzt. Im ersten Falle ist die Reihe
+Σ Αμ ξυμ 8181181· konvergent. Im zweiten Falle wird ihre Konvergenz
+auf folgende Weise bewiesen.
+
+Scheidet man aus S die Summe
+
+Τνι v,...={ 1.ῑ2,(ω)---Βο 4- Bloe÷B2ae²÷
+
+mit ‘¹²1 <2³2 <v3<... und mit lim v,=00 8118, 8ο hat die Reihe
+ΣΒμ πμ, 818 Entwiekelung einer gleiehmnssig (und absolut) konver-
+genten Summe sicher einen bestimmten Konvergenzbereieh.
+
+Setzt man
+ς13.(τιε)εΡ.(<ι>)-ι-Μαι), s=1‚ 2,...
+
+und wird noeh die Summe
+
+zv„ ΞΣ 88),
+
+deren {ox-melle Entwiekelung mit
+
+G'o -4- C1x÷ G2oe²÷ .....
+
+bezeichnet wird, gebildet‚ 8ο 8111(1 (118 Koeffizienten Ομ 8118 811(111811,
+(181111 111 (1811 hier bestehenden Gleiehungen Βμ -1- G„ = Αμ,
+
+με-Ο,1, 2 ...... sind die Gressen A„ und B„ endlieh.
+Die Grenze
+lim μη 0p ist = O
+infolge der Bedingung (8). Die Reibe 00 -{— Οιω-ξ- ist demnaeh
+konvergent und (18
+

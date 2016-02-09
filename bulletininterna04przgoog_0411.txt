@@ -1,0 +1,54 @@
+426
+
+wo p.={{ ist, dargestellt, welcher Gedanke bis ‘ auf L agrange
+zuruckreiekit ¹). Diese letzte Aufgabe betraehtet er als den speziellen
+
+Fall der allgemeinen Differentialgleiehung
+XIdlq—ff- ..... -†-X,„d.v2„=0.
+
+Das Charakteristisehe dieser Methode besteht in der speziellen
+Transformation der Variablen, welche den wahren Zweek hat⁷ wie
+es G au s s spater hemerkt hat ²), die vorgelegte Differentialgleiehung
+auf die einfaehste Form mit der kleinsten Anzahl der Differentiale
+zu reduzieren und in dieser Form zu integrieren.
+
+Die spateren Verfasser, wie Cauehy, Jacobi, Mayer‚
+haben die verschiedenen Methoden der Integration angegeben‚ die
+alle einen und denselben inneren Gedanken haben, numlieh die
+Differentialgleiehung (1¹) in ihrer einfaehsten Form zu integrioren
+und also die Eigensehaften der Verfinderliehen dieser Form auf
+dem einen oder auf dem anderen Wege zu benutzen‚ von denen
+nur J aeobi in seiner ersten Methode der Integration 3) die reine
+Methode der Transformation von Pf a f f angewandt und in mehreren
+Punkten ausgebildet hat. Es leuchtet sowohl aus dieser letzteren
+sowie aus den Arbeiten von Cauehy4) ein, dass diese Methode der
+O a u e h y seben ahnlieh ist.
+
+D ar b 0 ux ὅ) hat spater gezeigt‚ dass die Methode der P f a ffsehen
+Transformation in der vom Verfasser gegebenen Form mit der
+C a u e h y seben ubereinstimmt.
+
+Die Pfaf f sehe Methode ist trotz dieser Arbeiten in ihrer ganzen
+Allgemeinheit⁷ zu der sie nur fahig ist, noch nieht dargestellt worden.
+
+Ich beabsiehtige in dieser Abhandlung die Theorie der Integra-
+tion einer partiellen Differentialgleiohung oder des Systems solcher
+Differentialgleiehungen erster Ordnung mit einer unbekannten Funk-
+tion mit Hilfe der Pf a f f sehen Transformation in der allgemeinsten
+Form durehzufuhren ⁶).
+
+1) Abh. d. Berl. Acad. 1772.
+
+ἵ) (Ξδῐῑ. gelehr. Anz. 1815.
+
+⁸) J. Crono, Bde 2, 17. Vorles. nb. Dyn., 18663 Journal d. Maur, Liouv. 1838.
+
+⁴) Exereices d’An. et de Phys. math. Τ. 11, 1841. Compt. Rend. Τ. 14, 1842.
+
+⁶) Bull. d. Se. math. et astr. 1882. Compt. Rend„ 1882.
+
+Β) Die gogonis-artiga erste Mitteilnng anehalt die Theorie einer partiellen
+Differentialgleoehung. Die Verallgemeinerung auf Systeme partieller Differ-ential-
+
+ 
+

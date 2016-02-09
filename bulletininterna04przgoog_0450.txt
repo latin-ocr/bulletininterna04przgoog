@@ -1,0 +1,43 @@
+465
+
+,Q'=dz—p1doe1—...—p.doe.=dH-{—-oe1dp1-†—...4-oe2dp2—
+—p241doeff‚—...—p„doe„=0.
+
+Die Gleichungcn (ε) euthalten 01 C, . . . C„ die aus denselben sich
+bestimmen lassen. Fuhren wir die neuen Veranderlichen 01 C, .. C„
+ein, so folgt, dass die Differentialgleichung
+
+Q'=dz-p1doe1...p„doe„=0,
+wo F(oe1...oe„zp1...p„)=0, die Form annimmt:
+“H &H
+
+9'={—C]d⁰¹†·“†ffid⁰”=⁰·
+Es folgt aus dieser nach dem oben gesagten, dass das singulare
+Integra] den Gleichungen {g = Ο , . . . . {g = Ο genflgt. Wenn
+
+wir 01 .. . C„ aus diesen letzten und aus den Gleichungen (ὅ) eli-
+minieren‚ so bekommen wir n -ἦ- 1 Gleichungen⁷ die das singulare
+Integral darstellen kbnnm.
+
+Wenn dieses vollstblndiges Integral ein gewsshnliches ist, so hat
+es die Form
+
+zzj(x1...ae„01...0„)‚p1=gzgupn= g
+und das singulare Integral erfullt die Gleichungen
+⁶ ἓ
+ἕζεο..,ξέῐ20.
+
+32. Μ. LADISLAS GORCZYI‘JSKI. Bedunia uad przebieglem rocznym inso- ’
+lacyi. (Etudes sur la marc-loe annuelle de l insulamn). Memoire
+presente par M. M. P. Rudzki m. c.
+
+Introduction.
+
+Les presentes recherches sur la marche annnelle de l'insolation
+s'appuient sur les materiaux actinometriques recueillis ὲ, Varsovie
+en 19013 les mesures de l’inselation ont ete effectuees avec l’acti-
+nometre systeme Angsizriim-Chwolson⁹ place sur le balcon du
+sud de l'Observatoire (sitne entre le Jardin des Plantes et le parc
+de Lazienki); au commencement de l'annee 1902 cet actinometre
+a ete transpone vers le centre dela ville et depuis lors les mesu-
+

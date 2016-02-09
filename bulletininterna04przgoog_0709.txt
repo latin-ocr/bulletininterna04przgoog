@@ -1,0 +1,55 @@
+716
+
+Ces conditione etant remplieS‚ on a toujours
+
+(4) gig-gsfemem)dx==sf(x)„1321oe<oe‚n> dx.
+
+On peut ajouter que oe lemme reste vrai dans le eas beaucoup
+plus general, οιῖι la fonction f (ιτ) peut cesset d'etre integrable aux
+environs de certains points isoles. Pour que le lemme soit vrai‚ il
+suffit seulement que les integrales
+
+sse) dx, fiseo} dx,
+
+definies au sens general de M. Jordan (Oours d’Analyse‚ T. II, p.
+49 ete. Pane, 1894), existent.
+Mais iei je n'insiste pas sur ee point.
+3. Posons maintenant
+a = o, b = 2π.
+
+Soit ηο un nombre donne, positis, assez petit et neeessairement plus
+petit que π ²).
+
+Prenons un autre nombre positis η, plus petit que ηο. Designons
+par (το une valeur queloonque de la variable x, prise dans l'inter-
+valle (η, 2π-η).
+
+Considerons la fonction
+
+‘⁸⁰4⁷'
+
+ΓΠ ΨΞΓῙ· (τε-ξ)
+(ὃ) meam: “-“ --α-,ζξω- dd,
+
+ωυ-η
+
+ 
+
+ 
+
+n etant nn entier positis, ξ une variable variant entre les limites
+0 et 2 π.
+
+011 voit que φ (ξ, η) est une fonction de ξ, (16 n et des para-
+metres xo, η, bornee et integrable par rapport ὴ ξ dans l'intervalle
+(0, 2π), quel que soit 16 nombre positis n et les valeure des para-
+metres πο, η, compris dans les ntervalles (η, 2π-η), (0, ¹⁷20)-
+
+Quelle que soit la position du point πο ὸ. Γίωέτίειιι· (16 l'inter-
+valle (η, 2π-η), l'intervalle (ατο - η, ²²0 -}-·¹1) ne sortita pas de l'in-
+tervalle (Ο, 2π).
+
+²) Pour que l'on ait ’20⁴³ 2⁷³-th
+
+ 
+

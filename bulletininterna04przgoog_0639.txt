@@ -1,0 +1,56 @@
+646
+
+gleichungen (1) suchen. Wir konnen hierbei immet voraussetzen,
+dass jede der gegebenen Gleichungen (1’) die Variablen p‘ enthisst.
+Das gemeinsame Integral der Differentialgleiohungen (1) bildet
+gleichzeitig ein Integral jeder von diesen Gleichungen z. B. der
+Gleiohung
+
+R(x,...ae„zp,...p„) = Ο.
+Das nichtsingulare Integral dieser letzten lasst sich in folgender
+
+Weise (Satz ΙΙ, erste Mitteilung) bestimmen: Man soll die Differen-
+tialgleichung
+
+90=d20—p,⁰dx,⁰—...p„⁰dx„⁰=0
+durch n-†-2 Integrale
+ffl,(ae,0...p.⁰)=0 (cz-1, 2...n), R(x,⁰...p.⁰)=0,
+
+(b) w(x1⁰·-·p‚.“)=0‚
+
+wo q2(ae,⁰.. .p„⁰) = Ο kein Integral des Systems der gewsshnliohen
+Differentialgleiohungen
+
+ 
+
+‚df-1. ἓ - ‘Ea ,π ,ἐξύ- ,2
+
+ab} ''m-&R ΘΕ
+
+5151 5323* Ρ ’ἑῐ
+ῧ---Αρι ῥ,-, ,2- -- Aha-m
+
+bildet, integrieren und daun die Grfissen ,το ,oz ,μθ aus den Glei-
+chungen (b) und aus den Gleiehungen
+
+xi=x5(x1x,⁰...p,⁰) i=1‚ 2...n
+
+(0) z ==z (ae1x10...p„⁰) (gg-420)
+101=P‹(201x1⁰···p„⁰) i=1‚2...n,
+
+die das System der Hauptintegrale des Systems (131) darstelleQ
+eliminieren. Die erhaltenen n-†—1 Gleichungen
+
+(d) 3“(oe,...p..)=0 (a==1‚2...n)‚ h](x1...p.)=0,
+
+stellen ein niehtsingulares Integral der Differentialgleiohung
+
+ἒ
+F (2:,.. Q} ..... 3}.)= ο
+
+dar. Die Gleichungen (d) sind offenbar ein System der n —†— 1 In·
+
+tegrale des Systems der gewfihnliohen Differentialgleiehungen (B1).
+
+ 
+

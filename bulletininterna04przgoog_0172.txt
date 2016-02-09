@@ -1,0 +1,62 @@
+169
+
+jection est encore plus importante pour les experiences de Mach
+et Salcher, faites 6 une pression plus haute et avec un reservoir
+de moindre capacite, ce qui peut expliquer aussi l'ecart entre les
+observations de l'abaissement de la temperature dans le jet de gaz
+(une dizaine de degres d'apres M. Em den, une centaine d'apres
+M. Mach). Le thermometre‚ d’ailleurS‚ n’est nullement applicable 6 16
+mesure de la temperature d’un gaz anime d’une grande vitesse‚
+puisque le mouvement du gaz et 16 distribution de chaleur chan-
+geraient completement par suite de sa presence.
+
+IV. Solutions speciales de quelques problemes d'Aerodynamique.
+
+§ 22. Nous nous bornerons 6 l'etude de quelques problemes
+simples dont quelques-uns toutefois montreront l'application de rne-
+thodes plus generales.
+
+L’exemple le plus simple est le mouvement stationnaire d’un
+gaz compris entre deux parois cylindriques‚ concentriques3 l'exte-
+rieure dont le rayon est r, est riixe, et l'interieure‚ de rayon r„
+effectue une rotation de η tours par seconde. Designons par ω 16
+
+vitesse angulaire correspondent au rayon νς nous aurons 16 solution
+des equations (10) et (11)
+
+u=—-m}; v=m},
+
+sous la condition que ω satisfasse 6 l'equation:
+
+—2{2÷b= Imm] [1 11
+
+m:
+
+ 
+
+ν’ 2⁶2²
+
+(33)
+⁹⁴1² νε*
+Les pressions resultent de {li—5 = astro, si 16 temperature est connue.
+
+Celle-ci est determinee par l'equation (12) qui, integree‚ donne
+1 1
+
+⁰:⁰⁰422‘2'l23-‚72‘2l arelog}² (34)
+oi1 80 designe 16 temperature de 16 paroi exterieure. Pour deter-
+miner le coefficient c, supposons que 16 cylindre interient soit isole
+
+au point de vue thermique. Il atteindra l'equilibre thermique lorsque:
+do
+
+κ,-
+
+dr
+
+ 
+
+-Ο,
+
+ΥΞ Tg
+

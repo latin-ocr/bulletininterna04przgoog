@@ -1,0 +1,46 @@
+557
+
+Auflfisungsgesehwindigkeit wurde von N o y e s und Wh i tn e y die
+
+Konzent-rationszunahme in der Zeitheinheit ἐξ definiert. No y es und
+
+Whitney haben nun vorausgesetzt und durch den Versueh besta-
+tigt gefunden‚ dass
+
+dc
+
+ἅ-ῑΞαωῖ-θ), (1)
+woraus nach der Integration (fur t=o ist ετ·- o) sich ergibr
+1 Co —— c
+a= --t- ln ——C-,T— (2)
+
+Der de Heen'sehe Zahigkeitsfaktor B wurde von Noyes und
+Whitney vorliiufig nieht berueksiehtigt. Noyes und Whitney
+wie aueh alle spateren Forscher auf diesem Gebiete, haben aus
+praktisehen Grunden nur sehwer lbsliehe Stoffe‚ deren gesattig-
+ten Lfisungen eine von der des‘Wassers nieht sehr verschiedene
+Zahigkeit zukommt‚ experimentell untersucht⁷ so dass in allen Fal-
+len B als konstant angesehen werden musste und in der Konstante
+a ev. a‘ inbegriffen ware. Ob uberhaupt etwaigen Xnderungen von
+B in der Grundformel Reehnung getragen werden muse, hang-t, wie
+aus dem Weiteren ersiehtlieh, mit der Frage der Veranderliehkeit
+vom Diffusionskoeffizienten mit der Konzentration zusammen. So
+lange man mit kleinen Konzentrationen d. h. mit schwerlesliehen Stof-
+fen zu tun hat, ist diese Veranderliohkeit sicher versehwidend klein.
+
+Das logarithmisehe Gesetz des Auflfisungsvorganges ist von
+Noyes und Whitney unter der Annahme ausgestellt worden,
+dass der Lesungsvorgang im Grunde ein Diffusionsvorgang sei, indem
+der feste Stoff „stets mit einer unendlieh dunnen Sohioht von ihrer
+gesattigten Lsssung umgeben ist“. Der Auflbsungsvorgang besteht
+ja nur in einer Diffusion aus der gesattigten Schieht in das ubrige
+Lesungsvolunu die Diffusiongesehwindigkeit aber ist nach der
+Fiek'sehen Grundgleiehung dem Konzentrationsgefalle proportio-
+nal, weshalb auch das logarithmisehe Gesetz fur den Auflbsungs-
+Vorgang eine einfaehe Folge des allgemeinen Fiek'sehen Gesetzes ist ¹).
+
+¹) Ebenso mhrt ja zur Restatignng des logarithmischen Genetzes eine von F.
+Beilstein [Lieb. Anu. 99, 165 (1856)] angewandto Diffusionsanordnung, wo sich
+
+1⁴}
+

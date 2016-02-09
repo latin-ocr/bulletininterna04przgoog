@@ -1,0 +1,48 @@
+773
+
+Des equations (8), page 384, on eonelut que l'on a
+
+Ρ =1p21= - λ [θ’] - 2μ18ιἿ (ba)
+p=[1›..l= -λ19Ἴ -2μ1ειἾ (bb)
+Ρ Ξ[1ου]Σ - λ [ΘἿ -· 251 [eff] (ὗε)
+Les equations (ὃ) exigent que l'on ait
+[⁸1³⁶] = [δι”] = [εἶ] = &183³ (ss)
+par consequent. les equations (5) permettent d'ecrire
+ΡΞ-(λ-ἔ-ἓμΗΘἿῐ (7)
+
+cette relation d’ailleurs peut se deduire immediatement de l'equation
+precedente (1).
+
+Cherehons ἐι nous rendre compte de l’influenee que peuvent
+exercet, sur la valeur des quantites p„ et p, les forces et les in-
+fluenees etrangeres ἐι la relaxation. Cette influen(·e s'exprime parles
+equations
+
+ 
+
+d215”=2—(2†}u)w(8)
+dJJ—fz— <2÷}u)“—¹—3 ’[ΘἾ (9)
+
+que l'on tire des equations precedentes (1) et (7) en designant par ῶ
+la quantit& definie par l’egalite (27) du Memoire de M. Zarem ba ¹)-
+
+Ces memes quantite8‚ p„ et p, sont-elles soumises ὴ l'influenee de
+la relaxation pure? Ajoutons membre ὲ. membre les trois premieres
+equations du systeme (21), page 392, du Memoire de M. Z are mba3
+nous aurona
+
+d2.2*=-(;÷.2><20m—10>-
+
+Ceei peut s'e'erire en adoptant la notation de M. Zaremba [ega-
+lites (17). page 390]
+
+d2122· - Ρω-Ρ. (11)
+
+dt Τ, ’
+
+ 
+
+¹) Nous admettons ici fles &quatinus denudes en bas de la page 3943 noue
+suppoeons (et, en cela, nous mivone l'exemple donne par M. Zaremba, page
+395, ligne 1) que les lois ordinaires de la differentiation n’appfliquent h l'opdration dl.
+

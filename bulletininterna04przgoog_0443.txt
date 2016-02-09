@@ -1,0 +1,55 @@
+458
+
+3-{—}-H(22...oe,j—²...{-)=0
+
+,ΒΞ cl„
+
+hat. Wir werden sie nach der Methode v< ›11 Cauchy integrieren.
+Das System der gewbhnliehen Differentialgleichungen (131) hat
+in diesem Falla die Form
+
+ἅτε da: dz (ἰΡι dp
+
+     
+
+ 
+
+ὼεῖὶ- =n†‘· ΠΗ ω·ΞωΞ-ᾗ”
+ἵ, &;ffi†p Ρ ‘z‘ Q
+
+und sein System der Hauptintegmle in Bezug auf ³⁷1 z Ιι die Form
+
+x4=oe5(x1x2⁰...x„⁰p,⁰...p„⁰) (i=2...n)‚
+(α) z=zo-†-z(x1x2⁰...oe„⁰p1⁰..‚p„⁰)‚
+p¹=p4(ae1x2⁰...x„⁰p1⁰...p„⁰) (i=1,2...n).
+
+Um die Gleiohung (1) zu integriorem musaeu wir die Glei-
+chung
+
+· dzo -p20doe,⁰ - . . . —p„⁰dae„⁰= Ο
+duroh n Integrale
+(L) 8¹(ae20...zop,⁰...p„⁰)=0(i=1‚2...n)
+
+integrioren (Satz ΙΙ, III) und daun die Grbssen 5⁶²⁰ . . x„⁰z⁰p1⁰ . . μθ
+aus den Gleiehungen
+
+61:0(i=1,2...n)‚ p1⁰-}-H(oe1⁰h...p„⁰)=0
+
+und den Gleichungen (α) eliminieren.
+Man wird nach dor Elimination 101⁰ das System
+
+(M) G‘(oe2⁰..p2⁰)=0, (i=1, 2..n)‚ p1—†—H(x1..p„)=0
+(a‘) lx‘=x1(oe1x,⁰..p„⁰), ps=p⁴(x1oe2⁰..p2⁰..p„⁰), (i=2,3..n)
+2:20-f—z'(x1oe2⁰...oe„⁰p2⁰...p„⁰)
+
+wo die 2η -— 1 Gleichungen (a') die Hauptintqgrale des Systnms
+
+ 
+
+doe—Q— -doe„— dz —
+1--εῊ-····--ἑ“[]“ῑ“·“ &H -
+Q ᾖ Ρῖ-Η
+ὦϋ ε-ὢ- ,Ψ
+ΘΗ-“’“”“’“ &H
+Q ᾗ
+

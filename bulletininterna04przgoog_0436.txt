@@ -1,0 +1,51 @@
+451
+
+Man kann alle vollstfindigen Integrale aus diesen Systemen von
+n —{— 2 Integralgleichungen (161· Differentialgleiohung Ωο = Ο
+
+Θ,(.τ10...Ρ,,0)τ-Ο (i=1, 2...n), F(oe1⁰...p„⁰)==0,
+‹p(x1⁰...p„⁰)=0
+erhalten‚ wo nur (116 Gleichungen
+31=0(i=1, 2...n)
+
+01 . . . 0,, 611111611611 1111(1 111 Bezug auf dieselben auflOsbar sind. In
+der 'Ifat die Gleiohung φ (11:1⁰ . . . μθ) = O soll von (1611 willkurlichen
+Konstanten 0„ 63... G„ frei 66111, (16 616 (116 Relation zwischen den
+Integrationskonstanten (υέ 2⁰10? (161· 2η Integrale des Systems (B)
+bedentet. Wir zeigen jetzt, (1666 wir immet voraussetzen ki'mnen,
+dass (116 Gleiohungen 6⁶: O (i= 1,2 . . . n) in Bezug auf 01 . . . O„
+auflfisbar 661611.
+
+111 (161· 'I'at 66 661 (116 Gleiehung ‹p=o‚ die kein Integra} des
+Systems (131) ist und keine willkurliehe Konstanten euthalt, mit den
+Gleiohungen (6) vertraglieh.
+
+Wir wissen (Nr. 6), (1666 111 diesem Faue das System (161· π-Ι-2
+Integralgleiehungen (161· Differentialgleichung ,Ωο == Ο
+
+61(x1⁰...p.⁰)=0(i=1, 2...n), F(x10...p„⁰)=0‚
+
+φ (21⁰ · · -p-0) = 0 (b)
+
+aus denen (166 Integral (6) 6111611611 werden kann, in (161· Form
+
+194(x1⁰...p„⁰)=0(i=1‚2...n), F(x10...p„⁰)=0,
+
+⁴ w(x1⁰···P·⁰)=0> (b')
+dargestellt werden kann, womit unsere Behauptung bewiesen ist.
+Wir haben 6160 (1611 Satz V:
+Satz V. Wenn man (116 Differentialgleiohung
+Q„ = (ἰεῦ - p1⁰dael⁰ . . . —-—- p„⁰doe,⁰ = Ο
+
+durch n ·†· 2 Integrale
+
+6‘(x1⁰...p„⁰)=0 (ir-21, 2...n)‚ F(x1⁰...p„⁰)=0,
+
+φ (2:1⁰ . . . μθ) = Ο (b)
+von der Eigensohaft, dass nur (116 n ersten Gleichungen n willkur-
+116116 Konstanten 01 . . . 0„ euthalten, in Bezug auf welche 616 auf·
+lsssbar sind, und wo (116 Gleichung φ = Ο 116111 Integral des Systems
+
+(131) ist, integriert hat, und wenn man (116 Grossen πθ 20 P‹⁰(i= 172 . . . n)
+aus (1611 Gleiohungen (b) und den Gleiehungen
+

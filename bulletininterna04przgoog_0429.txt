@@ -1,0 +1,50 @@
+444
+
+der η-Ι- 2 Integralgleiohungen der Differentialgleiehung
+900³:de -Ριθοᾰωιω -···—1⁰.⁰⁰d=0⁰⁰=0
+. erhalten, so dass man die Gleiehungen
+θ’.(τιει ...p,)=o (i=1,..n),
+wo F (εει . . . Ρ.) = Ο ist, aus den Gleichungen
+(θ’) 81¹(oe100....p„⁰⁰)=0 (i=1‚...n),
+
+wo F(oe100...p„⁰⁰)=0, w(2200...p„00)‘=0 ist, durch ‘die Pfaff-
+sobe Transformation
+
+oe‘=ae.(x1oe1⁰⁰...p„⁰⁰) (i=2...n)‚ z=z(ae,oel⁰⁰...p„⁰⁰)
+p‘=pf(oe1x1⁰⁰....p„⁰⁰) (i=1, 2...n)
+
+wo 12²(oe100 . . . μω) .-- 0, ψ (2:1⁰⁰ . . . μω) = Ο ist, bekommt.
+Es seien die Formeln der anderen P fa ff sohen Transformation
+
+oe.=oes(oe12:1⁰...p„⁰) (i=2...n), z=z(x.x1⁰...p„⁰),
+Ps=p1(x1ae1⁰--·p.⁰) (i=1,...n)‚
+
+wo B(x1...p.⁰)=0‚ q2(x1...p„⁰)-=O ist.
+Wenn wir mit Hilfe dieser Formel dja Differentialgleiohung
+
+Q'zdz -pldx1..-—-p„dae„=0‚
+
+wo F (221 . . . μ.) = Ο ist, und ihr Integralsystem 19⁴(x1 . . . μ.) -- 0
+(i = 1 ‚ 2 . . . n), wo Fx, . . . p.) = Ο ist, transformieren, so bokom-
+111611 wlr
+
+sldffl -·· (J‘zdylk
+(ε) Ω’ -·-. e (dz⁰ —— p1⁰dr1⁰ . . . — p,⁰d:c‚⁰) = Ο,
+wo F(ae1⁰....p„⁰)=0, w(x1⁰....p‚⁰)=0 ist,
+und ihr Integralsystein
+
+(6) Θ,(πιθ...Ρ-”)·--Ο(ἱ21,2..η),
+
+wo F(x1⁰....p„⁰)=0, q2(x1⁰....p„⁰)=0 ist.
+
+Wir wissen weita, dass 2n—1 Unabhangige der Veranderliohen
+ιε, 2⁰ μθ durch die 222 —- 1 Unabhangigen der Veranderlichen oe,⁰⁰z”p,”
+sich ausdruoken lassen und wir die 11611611 Formeln (161· Transfer-
+mation bekommen. wir wollen jetzt die Differentialgleichung (ε)
+Ω’ = O und ihr Integralsystem (6) auf die Variablen 21⁰⁰zoepf⁰⁰
+transformieren. Das System (6) wird dann (0¹) und die Gleiohung
+
+dzo —p10dae1⁰.. . -p,⁰dae„⁰ = Ο
+
+ 
+

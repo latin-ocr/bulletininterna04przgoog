@@ -1,0 +1,50 @@
+(la)
+
+268
+
+25. Μ. LADISLAS NATANSON m, t. Ο zastosowaniu rownan Lagrange’a
+w Teoryi tar-cia wewnqtrznego. (Sur eapplwation des &quatiam
+de Lam-anae dans la Theorie de la Viscosite‘).
+
+ξ 1. Dans notre Memoire Sur* les lois de la viscosite,
+presente a l'Aeademie (1668 16 866666 (16 4. Fevrier 1901 1), 6668
+avons propose un systeme d'equations pour exprimet 16 161 suivant
+laquelle s'opere, au sein d'un fluide deforme, le phenomene intime
+et fondamental de la relaxation. Ainsi que dans 16 Μ6616116
+6116, designons par x, y, z les coordonnees reetangulaires d’un point
+81166 a l'interieur du fluide3 par u, v, w les projections (sur les
+axes Oxyz) de 16 vitesse dela particule du fluide qui au moment
+t se trouve au point 666816616ς par pa, pm, p„ Pru pm p„ les
+eomposantes des pressions qui definissent de la faeon bien eonnue
+l’etat de 1668166 impose au fluide, en (x, y, z), a l’epoque t3 par p,
+la limite vers laquelle eonvergeraient pu, pu„ p„ par l'effet de la
+relaxation3 par n, k, h les constantes designees par 168 memes
+symboles dans le Memoire auquel nous venons de faire 61168166;
+par T 16 constante caracteristique du fluide que l'on nomme le
+temps de relaxation. Aveo 668 notatione, les equations dont
+il s'agit s'eerivent de la maniere suivante. On 6, 66 premier lieu,
+
+ 
+
+ 
+
+d<P35AE÷P227·²⁰÷-222{{÷<1⁶-11-÷22>{3}3-”÷})=0
+et deux equations analogues3 61, 66 second lieu,
+<2a> {3325 ψη (2—20÷{{)=0
+
+ainsi que deux equations analogues qui s' en (16(1618661 par des per-
+mutations circulaires. Dans 668 6116611668, 16 symbole dfdt a la
+signification
+
+d
+
+ὦ) 6261“61”61”ἑ·
+Posons:
+
+(42²) p„ ··- Ρ = Φ, 12.. = Φ,
+(4b) Ρη - 10 = 4²„ p„ = ‘¹³2
+(40) p„ — p = Φ.- p„ = Φ»,
+
+¹) Bulletin International (16 1Ἀ66(161616 (168 86166668 (16 Cra-
+66 vie, Classe (168 86166668 Mathem. 61 Natat-elles, Α6666 1901, p. 95.
+

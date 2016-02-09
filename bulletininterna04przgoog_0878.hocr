@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bulletininterna04przgoog_0878.png"; bbox 0 0 3842 5925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 447 2636 625">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 447 2636 625">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 447 2636 625; baseline 0.001 -37"><span class='ocrx_word' id='word_1_1' title='bbox 86 550 97 625; x_wconf 73' lang='lat' dir='ltr'><strong>J‘</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 241 447 1061 625; x_wconf 78' lang='lat' dir='ltr'>Tamopol.</span> <span class='ocrx_word' id='word_1_3' title='bbox 2343 520 2447 591; x_wconf 80' lang='grc' dir='ltr'><strong>Ρι.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2488 522 2636 592; x_wconf 74' lang='grc' dir='ltr'><strong>κν.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 237 857 2648 948">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 84 836 2648 948">
+     <span class='ocr_line' id='line_1_2' title="bbox 237 857 2648 948; baseline -0.002 -1.298"><span class='ocrx_word' id='word_1_5' title='bbox 237 867 485 948; x_wconf 88' lang='lat' dir='ltr'><strong>:mber</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 754 860 1130 945; x_wconf 76' lang='lat' dir='ltr'>October</span> <span class='ocrx_word' id='word_1_7' title='bbox 1432 857 1935 941; x_wconf 79' lang='lat' dir='ltr'><strong>November</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2161 858 2648 942; x_wconf 74' lang='lat' dir='ltr'><strong>December</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 590 1237 2475 1471">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 590 1008 3381 1471">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 1237 2475 1471; baseline -0.006 -1"><span class='ocrx_word' id='word_1_9' title='bbox 590 1008 3121 1471; x_wconf 54' lang='lat' dir='ltr'><strong>flmmfflffllflfl-m,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 235 996 1323 1486">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 235 996 1323 1486">
+     <span class='ocr_line' id='line_1_4' title="bbox 235 996 1323 1486; baseline 0 -366"><span class='ocrx_word' id='word_1_10' title='bbox 235 996 1323 1486; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 66 0 3765 5469">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 66 0 3765 5469">
+     <span class='ocr_line' id='line_1_5' title="bbox 66 0 3765 5469; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 66 0 114 5469; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2771 996 3765 1486; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

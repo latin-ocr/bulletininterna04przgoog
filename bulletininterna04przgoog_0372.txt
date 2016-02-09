@@ -1,0 +1,54 @@
+391
+
+Les equations (11) et (16) nous donneront aisement les relations
+salvantes:
+
+..ς 2..
+
+p¹'—p-—-He T¹÷(Pt-H)⁶ . Ι
+. (1=1‚ 2, 3). (18)
+
+q: = (μ
+
+Ces {elations nous apprennent que l'hypothese dela relaxation exige .
+que 'on ait:
+
+T>o
+
+Τ1 > Ο (19)
+
+Il est aise de deduire des equations (18) 18 signification physiqne
+des quantites T et Τις 18 quantite T determine 18 maniere dont les
+efforts tranchants tendent vers κότος c'est ce qui resulte des trois
+dernieres equations du systeme considere3 pour determinet la signi-
+fication physique de la quantite Τι il suffit d'ajouter membre
+ὲ. membre les trois premieres equations du systeme precedent3 on
+
+trouve:
+
+ἦ
+
+Π’-ΡΞΠ6- (20)
+
+en posant
+
+Π, = 121'4-1232'ss-132'
+
+ 
+
+· Cela prouve que 18 quantite Tl determine 18 maniere dont 18 pression
+normale moyenne tend vers sa limite p. D'ailleurs les dimensions
+des quantites Τ et T¹ sont celles d’un espace de temps3 on pour-
+rait donc appeler: T 16 temps de relaxation de ,18 rigidite et T¹
+celui de relaxation de 18 pression normale moyenne.
+
+Nous avons fait remarquer des 16 debut des consideratione sur
+la relaxation, que les coefficients des fonctions lineaires et homo—
+genes qui font connaitre les expressions des quantites (13) en fonc-
+tion des quantites (12) doivent etre consideres comme des fonctions
+de 18 temperature τ et de 18 densite ρ qu'a le fluide 8 l'epoque t
+au point (x. y, z)‚'fonctions qui ne dependront d'ailleurs que de 18
+nature du fluide considere. Par consequent les quantites T et* P
+(ou si l'on veut T et Τι) doivent etro regardees comme des fonc-
+tions des variables ρ et τ. ΙΙ est ὲ, peine utile d'ajouter que, dans
+

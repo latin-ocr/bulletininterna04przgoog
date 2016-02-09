@@ -1,0 +1,54 @@
+661
+
+sein, (1611111 (116 Veranderliohen oe‘zpf den Gleiehungen (I') genu-
+gen. Was aber die ubrigen m Relationen zwisehen (τέ’ 20 pff betrifft7
+so bleiben (11666 letzten ganz willkurlieh‚ nur 6611611 616 keine Re-
+1611011611 zwisehen (φεμ 116611 61611 61611611, (16 (11666 Verfinderliehen
+11111· (1611 Β61611611611 (1¹) genflgen sollen3 mit anderen VVorten (11666
+m ubrigen Relationen
+
+Q<=v1⁰n-x‚.⁰20p,⁰·--p„⁰)=0 (i=1‚2...m)
+
+6611611 keine Integrale der Differentialgleiehungen der Matrix (131)
+66111. VVenn wir jetzt voraussetzen‚ dass die 2²24- 1 —— 2m unab-
+
+hangigen von der Vernnderliohen 2250202210 gerade ym4„ . . . . y,„4,-m
+sind, so erhalten wir die Formeln der Pfaffsehen Transformation
+
+xm45=xm4j(x¹...ae„oe,⁰...p„⁰) (j=1, 2..·.n—m)
+
+p4=pf(x,...x„x1⁰...p„⁰) (i=1‚2...n) (a)
+2:2(251...x„,x,⁰...p„⁰)‚
+xf=oef‘(y,...y„x,⁰...p„⁰) (i=1,2...m)‚ (b)
+
+wo Fa (2:1⁰ . . . a:„⁰20 2⁰1⁰ . . .p„⁰) = Ο, φί (2³1⁰ . . x„⁰z⁰ 221⁰ . . . p„⁰) = Ο 161.
+
+Die Veranderliehen xszpff genfigen 111 (161· Τ61 (1611 Differential-
+gleiehungen der Matrix (El), da die Gleiehungen (a) ihre Integrale
+sind, und sie erfullen die m gegebenen Gleiehungen
+
+E(x,...ae„zp,...p„)=0 (i=1,2...m).
+
+VVenn wir jetzt die Funktion μ hinzufugen‚ die aus der (31161-
+chung
+
+gg Ρῖ1ά19μ “““”Σβ“(ι> Θιξιζιῖἓμωῗ--Ρδάωβ (⁰)
+
+bestimmt 161, 60 werden wir 6116 Bedingungen des Satzes III er-
+fffllen, und sind (116 Formeln (a), (b) diejenigen der Pfaffsehen
+Transtbrmation. Ι
+
+Was die Funktion μ beta-iffi, 6ο 6111611611 wir, im Falla, dass
+
+ 
+
+ 
+
+on (ss=1‚2...m)
+c (p1·-pss-12pss÷1·--p‚..)
+161 111111 11111· 111 diesem Fau, d. h. im Falle, dass ξὲεῡ (i= 1. 2..m)
+
+161 1111(1 11111· 111 diesem Faue, dl9ffl=0‚ d. h. 19μ 6111111111 1116111
+(116 Ἷ611111ᾶ6111611611 9,....γω 1111(1 (11666 Veranderliehen verschwin-
+den naeh der Pfaffsehen Transformation des Ausdruekes 9¹.
+

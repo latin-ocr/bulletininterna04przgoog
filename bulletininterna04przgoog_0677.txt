@@ -1,0 +1,54 @@
+684
+
+mit Hilfe der Formeln der Pfaffsohen Transformation transformia-
+ren. Wir werden
+
+Ω’ = μ Μ
+erhalten‚ wo der Differentialausdruek Μ die Variablen y„ . .. y...
+nicht euthalt. Wir seben, dass der Differentialausdruok
+
+ΙΩ,
+μ
+
+nach der Pfaffschen Transformation die Veranderlichen y ..... y...
+nieht euthalt. Wir kssnnen also vor der Transformation in den For—
+meln der Transformation με μθ setzen. Wir bekommen daun, dass
+
+{9¹:50 9¹0: Ξῖ) (dzo — 101⁰ «12:1⁰ — . . . . — p„⁰ dx„⁰)
+ist, wo R(x1⁰...p„⁰)=O‚ oe5(x,⁰...p„⁰)=0 (ἐκ 1, 2.. .m) ist
+Wir haben alac, dass
+
+„0¹:5²5 (azo - ριοᾱωιο - . . . . —p„⁰dx„⁰)
+
+ist, wo R(x1⁰...p„⁰)=0‚ q>1(x1⁰...p„⁰)=0 (z‘=1‚ 2...m) ist
+VVenn F, (i= 1, 2.. ..m) z nicht euthalten‚ so euthalt μ die Ver·
+
+anderlichen y1 ..ym nieht, und ist u=pt0, d. h. ἴοε 1, so dass
+
+in diesem Falle
+‚Q' = deo —- p1⁰dz1⁰ —- . . . —p„⁰dx„⁰
+ist, wo E(:cl⁰...p„⁰)=0, oe1(x1⁰...p„⁰)=0 (23:1, 2.. .·m) ist.
+
+Um die Gleiehung Ω’ =0‚ wo R(x1....oe„zp, ....p„)=0
+
+(i = 1, 2 . . . m) ist, zu integrieren‚ so sollen wir entweder
+
+μ. = 07
+
+uo
+oder
+
+(ἰεῦ —p10doe10 —- . . . — p„⁰d:c„0 = Ο,
+
+wo R (5⁶1⁰ . . . p„⁰) = Ο, (p,(x1⁰ . . . p„⁰) = Ο ist, setzen. Wir kbnnen
+gg: Ο nur daun setzen. wenn nicht alle ἐξ (ι’ --- 1, 2. . . m) ver-
+schwinden.
+
+wir wollen also
+
+-Qo' = «12⁰ —p10dae10 — . . . — p„⁰doe„⁰ = Ο, ’
+
+ 
+
+ 
+

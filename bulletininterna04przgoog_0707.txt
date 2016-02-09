@@ -1,0 +1,46 @@
+714
+
+Supposons encore qu’on peut, le nombre positis ε etant donne
+ὲ, l'avanee‚ trouver un nombre ν, ne dependant ni de x, ni de
+α, β, . . . assez grand et tel qu'on ait pour tontes les valeurs de ,τ
+dans l'intervalle (a, b) et de α, β, . . .‚ compris dans les domaines
+
+(Α), (Β),-·-,
+(1) 1φ(·τ,π)-φο(ω)κε pour πέν·
+
+On dira dans oe eas que la fonction φ (x, n) eonverge‚ pour
+22:00, uniformement vers sa limite ‹po' (x).
+
+Deoomposons maintenant l'intervalle (a, b) en intervallos par-
+tiels Ax, dont 18 nombre soit egal ὲ, μ (s= 1, 2, . . . μ), designons
+par x, une valeur queloonque de x dans l'intervalle Aa), et formons
+la somme
+
+(1) ὲῖἑὲ f(ae.) φ (xm) Ax„
+
+Comme s (x) et φ (x, n) sont integrables dans l'intervalle (a, b), le
+
+produit f (x) φ (x, n) le sera aussi.
+Supposant que μ croisse indefiniment et en pussant ἐι la limite. on a
+
+(2) lim &iffi—- 1ιωΣ]οσ..,)φ(ω mx :summm
+
+μΕὮ
+
+Formons ensuite la somme
+
+ἐμὲ-ἑ f (ω) φο (x.) Ax..
+
+On aura. en passam, comme precedemment, ὲ, la limite
+
+(3) 11m8=sf<x x>w0<x>dae—sf<x)31moe<ae⁷001ae
+
+081·
+φο (x) = {³¹2 φ (10, ⁷1)-
+
+Cela pose, considemus la diffe'renoe
+
+s?- S‘Q} foc.) [ww-<100 (2201 Ax.-
+
+ 
+

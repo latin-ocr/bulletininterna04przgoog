@@ -1,0 +1,51 @@
+442
+
+lesbar sind, so bekommt man naeh der Elimination derselben das
+Integral f (z xl . . . .τ,,) s... O der Differentialgleiehung (1). ·
+Wenn es dagegen nieht der Fall ist, so stellen (11888 n ·†· 1 In·
+tegralgleiehungen der Differentialgleiehung Ω = Ο das Integra] der
+Differentialgleiehung (1) im erweiterten Sinne von S. Lie dar.
+. Die in dieser Weise erhaltenen Integrale nennt man niehtsingular.
+WVenn wir nun beaehten7 dass die Relation φ (2:1⁰ . . μθ) = Ο nur
+kein Integral des Systems der Differentialgleiehungen (131) sein soll
+und im ubrigen ganz willktirlieh bleibt, so kennen' wir den folgenden
+Satz II ausspreehen.
+Satz II. Um die niehtsingularen Integrale der gegebenen Diffe-
+rentialgleiehung zu arbonen, soll man die Differentialgleiehung
+
+90=d20 —p2⁰doel⁰— ...—-p„⁰dx„⁰=0
+
+mit Hilfe irgend eines Systems der n ·†· 2 Gleiehungen integrieren‚
+die nieht alle die Integrale des Systems der Differentialgleiehungen (13¹)
+sind und deren eine die gegebene Gleiehung F (2:2⁰ x„⁰ z⁰p1⁰ .. .p„⁰) =0
+ist. Es sei ein solehes
+
+Oss(x1⁰...x„⁰z⁰...p„⁰)=0, <Pss⁰1⁰n·x.⁰z⁰p1⁰...p.⁰)=0
+(Ε) F(x¹⁰...p„⁰)=0‚
+
+wo φ (oe10...x„⁰ z⁰ 2³1⁰ . . .p„⁰) = O kein Integral der Differential-
+gleiehungen (131) ist. Man bekommt (18.8 Integral der Differential-
+gleiehung (1), wenn man die Gresse 2:1⁰ . . .oe„⁰z⁰p1⁰. ..p„⁰ aus den
+Gleiehungen ²
+
+(E) 6¹(x10...x„⁰z0p10...p„⁰)=0, (i=1‚2...n)
+q>(x1⁰...x„⁰z⁰p1⁰...p„⁰)=O, F(oel⁰....p„⁰)=0,
+
+und
+x4=x‘(oe1x¹⁰....p„⁰)=0 (i=2...n), z=z(xlael⁰....p„⁰)‚
+· (a) p,=p.(x,x.⁰....p„⁰)=0(i=1...n),
+
+· eliminiert, wo die letzten 2n Gleiehungen (a) die Hauptintegrale des
+
+Systems (131) im Bezug auf x. :³³1⁰ sind.
+Was jetzt das System der n 4— 2 Integrale der Differential-
+
+gleiehnng ,Ωο = Ο mit den vorgesehriebenen Eigensehaften ben-iffi,
+88 kann man den folgenden Satz III beweisen:
+
+Satz III. Um alle Systeme der n -Ι- 2 Integralgleiehungen der
+Differentialgleiehung Ωο = Ο zu finden, die nieht alle die Integrale
+(188 Systems (131) sind und deren eine die gegebene Fotm
+
+ 
+

@@ -1,0 +1,49 @@
+449
+
+euthalt, die nur zwei von p? freien athalum, deren eine kein In-
+tegral des Systems (131) ist.
+
+Dieses System der n 4- 1 Integralgleiehungen kann mit Hilfe
+der Multiplikatoren λ und μ in der Form dargestellt werden
+
+I—fliw-ff—ugyi-(J 2Q÷uQ„-‚ ⁰-O ·...
+920 32⁰·- 2 92:5⁰ 32:4⁰ 12⁶— (1-1, 2...n)
+
+wo λ, μ eliminiert sein sollen.
+Die Gleichungen
+
+⁹2(²=1⁰·--x.⁰z⁰)=0, tp(oe1⁰...x,⁰z⁰)=0,
+
+deren eine kein Integral des Systems (Bl) sein soll, kssnnen im
+fibrigen ganz willkurlich gewahlt werden, sobald nur die Gleiohung
+
+F (5151 . . . x, zp1 . . . P.) = O von p, nieht frei ist„ was immet vorans-
+gesetzt wird.
+
+Man kann die folgende Eigensohaft des 8ο erhaltenen Integrals
+der gegebenen Differentialgleichung (1)
+
+f(zoe1...x.)=0
+beweisen: dieses Integral genugt infolge der Relation
+
+‹p(ae1...oe„z)=0
+der anderen Relation
+
+tp(x1...oe„z)=0
+In der Tat setzen wir vol-aue, dass die Gleiohungen
+
+f(x1...oe„z)=0, ‹p(oe1...x„z)=0
+
+vertraglioh sind. Da die letzte Gleiohung keiu Integral (188 Systems
+(B1) ist, 8ο Ιιὸιωθῃ wir das System (b') noch in der Form
+
+f(z⁰x1⁰...oe„⁰)=O, 29.(2:10...p„⁰)=0 (i=1‚ 2...n— 1),
+F(x1⁰...p,⁰)=0, ‹p(x1⁰...x„⁰z⁰)=0 (b'')
+dal-stenen, das nur zwei von ρξ’ freie Gleichungen
+f(z⁰x1⁰...oe„⁰)=0, Q(oe1⁰...x„⁰z⁰)=0
+
+euthalt. Da aber das System (b') mit dem Systeme (b“) identisoh
+ist, 8ο folgt aus den Gleichungen
+
+f(z⁰oe1⁰...oe„⁰)=0, ‹p(x1⁰. ..x„⁰z⁰)=0
+
